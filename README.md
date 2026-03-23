@@ -272,7 +272,7 @@ Avaliação
 ```bash
 # 1. Clone o repositório
 git clone https://github.com/JhArantes/regression-and-classification-case-studies
-cd seu-repositorio
+cd regression-and-classification-case-studies
 
 # 2. Instale as dependências
 pip install pandas numpy scikit-learn jupyter
