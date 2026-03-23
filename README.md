@@ -271,7 +271,7 @@ Avaliação
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/JhArantes/regression-and-classification-case-studies
 cd seu-repositorio
 
 # 2. Instale as dependências
