@@ -1,0 +1,1201 @@
+bairro,tipo_imovel,mobiliado,elevador,aceita_pet,metragem_m2,quartos,banheiros,vagas,idade_imovel,andar,dist_metro_km,condominio,valor_aluguel
+Zona Sul,Studio,Sim,Sim,Sim,43.8,3,2,0,31,16,3.12,359.01,4891.45
+Zona Oeste,Apartamento,Sim,Sim,Sim,81.8,1,2,1,44,11,,367.5,5352.06
+Zona Leste,Apartamento,Não,Sim,Não,77.3,2,1,1,36,1,3.2,960.67,3236.37
+Zona Norte,Apartamento,Sim,Sim,Sim,93.9,2,2,2,35,5,3.79,270.02,4697.57
+Zona Sul,Apartamento,Não,Sim,Não,50.2,2,1,1,20,8,1.42,918.23,5669.06
+Zona Sul,Studio,Não,Sim,Não,70.9,3,1,1,11,4,5.97,467.32,5555.51
+Centro,Apartamento,Não,Não,Sim,35.9,2,2,1,20,19,1.48,386.56,3619.99
+Zona Oeste,Apartamento,Sim,Sim,Não,87.5,2,2,0,20,20,1.68,645.96,5726.23
+Zona Leste,Apartamento,Não,Não,Sim,,2,1,1,42,8,0.94,563.26,2955.59
+Zona Leste,Cobertura,Não,Não,Não,82.4,2,1,3,5,22,2.82,500.63,6666.63
+Centro,Apartamento,Não,Sim,Sim,70.0,2,1,2,8,7,1.56,604.97,5038.55
+Zona Oeste,Apartamento,Sim,Sim,Não,80.4,2,1,2,0,19,1.88,,6404.4
+Zona Oeste,Apartamento,Não,Sim,Sim,110.1,1,1,2,11,7,1.69,496.1,5597.34
+,Studio,Sim,Não,Não,62.9,1,2,0,-6,21,1.66,783.92,6094.32
+Zona Sul,Apartamento,Não,Sim,Não,73.5,2,1,0,5,20,,,5237.57
+Zona Sul,Apartamento,Não,Sim,Não,42.8,2,2,0,0,22,1.32,321.33,5435.17
+Zona Sul,Apartamento,Não,Sim,Não,48.3,3,1,1,21,5,1.4,,5969.72
+Zona Norte,Apartamento,Sim,Não,Não,72.4,3,3,0,33,2,3.61,285.52,3809.58
+Zona Norte,Apartamento,Sim,Não,Não,97.6,3,1,1,10,4,1.56,571.48,5345.72
+Zona Sul,Apartamento,,Sim,Sim,63.6,2,1,1,2,8,2.58,676.35,5764.64
+Zona Leste,Cobertura,Sim,Sim,Sim,64.1,2,1,2,41,6,0.67,59.37,6389.2
+Centro,Apartamento,Sim,Sim,Sim,59.8,2,2,1,5,3,1.33,431.49,4305.29
+Zona Sul,Apartamento,Não,Sim,Sim,56.6,1,2,2,5,6,0.15,469.58,6713.99
+Zona Sul,Cobertura,Não,Não,Sim,77.4,1,1,0,19,4,4.78,478.54,8734.23
+Zona Norte,Apartamento,Sim,Sim,Não,32.6,2,1,0,20,10,4.06,228.73,2112.96
+Zona Leste,Apartamento,Não,Sim,Sim,102.0,4,1,1,1,14,-2.89,471.67,5239.92
+Zona Sul,Apartamento,Sim,Sim,Não,53.4,1,2,1,25,1,5.23,322.22,5504.14
+Zona Norte,Apartamento,,Não,Sim,88.0,1,2,1,30,12,3.16,466.41,3154.22
+Zona Norte,,Sim,Não,Sim,38.3,3,1,1,25,21,1.74,120.09,5501.58
+Centro,Apartamento,Não,Sim,Não,86.7,2,1,1,31,15,2.56,468.11,4605.12
+Zona Leste,,Não,Não,Não,86.8,3,1,1,9,6,,370.24,3087.31
+Zona Sul,Apartamento,Não,Sim,Não,79.6,3,1,1,22,7,0.68,484.38,6910.0
+Centro,Apartamento,Não,Sim,Não,45.1,4,2,1,5,5,0.24,625.2,5027.26
+Zona Oeste,Apartamento,Sim,Sim,Sim,76.2,2,1,1,22,23,2.61,538.82,5450.33
+Zona Oeste,Apartamento,Não,Sim,Não,40.4,3,1,1,27,6,1.12,748.35,4551.09
+Zona Oeste,Apartamento,Não,Sim,Sim,63.7,2,1,1,29,17,1.39,459.81,4681.9
+Zona Sul,Studio,Não,Não,Sim,95.7,2,3,0,13,21,0.14,704.72,7403.31
+Centro,Apartamento,,Sim,Sim,89.9,2,2,1,36,24,1.53,831.25,6111.43
+Zona Leste,Cobertura,Não,Sim,Sim,70.4,1,1,1,31,21,2.07,618.44,4963.64
+Zona Norte,Apartamento,Sim,Sim,Sim,45.6,2,1,2,33,19,2.12,544.8,3365.37
+Centro,Studio,Não,Sim,Não,86.1,2,1,1,40,6,5.01,653.59,
+Zona Norte,Studio,Não,Não,Não,70.5,3,2,0,43,2,1.69,627.27,3382.77
+Centro,Studio,Não,Sim,Sim,12.0,3,1,1,21,4,2.42,800.31,3025.92
+Zona Oeste,Studio,Não,Sim,Sim,89.6,3,2,1,30,0,0.44,748.45,6194.19
+Zona Sul,Studio,Não,Não,Sim,69.4,1,2,1,6,14,,751.46,5294.52
+Zona Leste,Apartamento,Sim,Sim,Sim,100.1,3,2,1,40,2,2.5,561.01,4941.95
+Zona Sul,Apartamento,Sim,Sim,Não,42.6,2,1,1,20,7,0.06,635.31,5717.13
+Zona Norte,Apartamento,Sim,Sim,Sim,,3,2,1,15,24,0.6,630.63,3313.24
+Zona Norte,Studio,Sim,Sim,Não,77.0,3,2,1,19,8,2.73,248.16,4151.4
+Zona Sul,Apartamento,Sim,Não,Sim,77.3,1,1,0,42,14,1.18,817.23,5690.66
+Zona Oeste,Studio,Sim,Não,Não,27.7,3,1,1,43,9,1.85,132.68,3686.58
+Zona Leste,Apartamento,Não,Sim,Sim,45.5,1,1,0,18,1,2.81,728.05,2389.72
+Zona Oeste,Apartamento,Não,Não,Não,138.9,2,1,0,31,19,5.06,616.75,6384.34
+Zona Oeste,Apartamento,Sim,Sim,Sim,,2,1,3,14,4,1.67,478.93,5753.81
+Zona Norte,Apartamento,Não,Sim,Não,88.3,1,2,3,4,18,4.65,647.8,4292.38
+Zona Oeste,Apartamento,Sim,Sim,Sim,53.7,3,1,0,10,12,0.94,,5491.84
+Centro,,Não,Sim,Sim,17.7,1,3,1,14,10,2.22,223.05,2735.7
+Zona Sul,Apartamento,Não,Sim,Não,65.7,1,1,0,28,0,,904.03,5057.14
+Centro,Apartamento,Não,Sim,Não,63.4,2,3,1,44,21,1.2,568.03,4575.27
+Zona Sul,Apartamento,Não,Não,Não,60.0,3,1,2,3,14,2.99,1128.68,7092.45
+Zona Sul,Apartamento,Não,Sim,Não,67.1,3,2,3,35,17,1.68,747.44,7583.54
+Zona Sul,Studio,Não,Sim,Não,76.6,3,1,1,22,15,1.04,,5786.06
+Zona Oeste,Apartamento,Não,Sim,Sim,66.2,3,1,1,14,8,0.38,377.49,5554.84
+,Apartamento,Não,Sim,Sim,38.4,2,2,1,43,0,3.08,522.29,4256.24
+Zona Sul,Apartamento,Não,Sim,Sim,82.2,1,1,1,2,10,0.46,,
+Zona Norte,Apartamento,Sim,Sim,Não,21.3,1,2,2,31,8,3.12,916.36,3021.92
+Centro,Apartamento,Não,Não,Sim,18.7,2,2,2,9,22,2.19,856.66,3332.48
+Zona Oeste,Apartamento,Sim,Sim,Sim,88.5,3,2,1,39,10,,662.87,7587.86
+Centro,Apartamento,Não,Sim,Não,82.7,2,2,1,37,12,1.88,,5044.92
+Zona Oeste,Apartamento,Não,Sim,Não,,3,2,1,21,1,2.77,45.95,5115.88
+Zona Leste,Apartamento,Sim,Sim,Sim,35.1,2,1,0,13,13,0.23,665.7,2986.53
+Zona Sul,Studio,Não,Sim,Sim,52.3,1,2,2,16,5,2.06,863.91,4994.59
+Centro,Studio,Não,Não,Sim,63.4,1,2,1,20,7,,686.86,4018.95
+Zona Oeste,Apartamento,Não,Sim,Sim,30.1,3,1,1,14,17,2.25,216.8,4360.72
+Zona Leste,Apartamento,Não,Sim,Sim,51.5,3,1,1,14,15,2.97,897.36,4662.78
+Zona Leste,Apartamento,,Sim,Não,86.3,3,2,2,0,20,2.25,740.34,4346.9
+Zona Leste,Apartamento,Sim,Sim,Não,105.7,1,1,0,23,11,2.91,635.75,4344.65
+Centro,Cobertura,Não,Sim,Não,59.5,4,1,2,11,10,0.95,572.09,9448.57
+Zona Sul,Apartamento,Sim,Não,Sim,88.9,2,1,2,9,5,1.91,1048.43,8018.61
+Centro,Apartamento,Não,Sim,Não,22.1,1,2,2,41,2,1.64,661.13,3514.12
+Zona Oeste,Apartamento,Sim,Não,Sim,86.5,4,1,1,41,13,1.54,489.52,6831.85
+Zona Leste,Apartamento,Não,Sim,Não,49.9,2,2,0,30,1,0.8,347.16,2597.21
+Zona Sul,Apartamento,Não,Não,Não,77.7,3,2,1,10,10,1.35,739.38,7722.64
+Centro,Apartamento,Sim,Sim,Sim,63.8,1,1,1,15,21,0.33,796.56,4000.0
+Zona Sul,Apartamento,Não,Sim,Sim,103.0,2,2,0,8,2,0.54,564.13,7153.21
+Zona Sul,Apartamento,Não,Sim,Não,48.1,3,3,1,13,17,,410.56,6562.67
+Zona Leste,Apartamento,Não,Não,Sim,85.7,2,2,1,18,0,,882.51,4097.52
+Zona Leste,Apartamento,Não,Sim,Não,63.0,3,2,2,30,23,2.35,328.15,
+,Apartamento,Não,Sim,Sim,66.0,1,1,0,8,0,0.12,1042.36,5846.5
+Zona Norte,,Não,Sim,Não,65.4,2,2,1,35,11,1.39,366.37,3731.07
+Centro,Apartamento,Sim,Não,Sim,48.9,2,1,2,38,14,3.04,230.43,3686.45
+Zona Leste,Apartamento,Sim,Sim,Sim,69.6,2,1,2,25,4,1.33,262.41,4543.81
+Zona Leste,Apartamento,Não,Não,Não,68.4,2,1,2,7,5,0.13,272.57,3473.18
+Zona Norte,Apartamento,Não,Sim,Sim,76.0,1,1,1,23,15,5.39,490.85,3303.38
+Zona Leste,Studio,Não,Sim,Sim,72.1,3,2,2,7,11,1.75,432.96,4131.41
+Zona Norte,Apartamento,Não,Sim,Sim,89.9,2,1,1,18,11,0.25,806.16,4193.34
+Zona Norte,Apartamento,Não,Não,Sim,93.1,2,2,1,29,2,2.26,770.52,4348.87
+Zona Norte,Apartamento,Não,Sim,Sim,43.7,2,2,0,21,22,1.87,494.12,3993.54
+Centro,Apartamento,Não,Não,Sim,91.7,2,2,0,8,1,0.31,1325.85,6166.46
+Centro,Apartamento,Não,Sim,Não,40.3,3,1,0,43,6,2.14,490.81,3144.86
+Centro,Apartamento,Não,Sim,Sim,84.7,4,2,0,3,1,3.48,524.12,6761.59
+,Cobertura,Não,Sim,Não,85.5,2,1,1,36,20,1.65,,6789.54
+Zona Sul,Apartamento,Não,Sim,Sim,22.2,3,1,0,7,6,1.09,529.86,4966.47
+Zona Norte,Apartamento,Não,Não,Sim,72.3,2,3,0,0,10,2.51,624.35,3898.17
+Zona Oeste,Apartamento,Sim,Não,Não,58.3,1,1,2,27,10,2.9,253.94,4556.8
+Zona Sul,Studio,Sim,Não,Sim,51.0,3,1,0,5,13,1.12,425.33,5589.13
+Zona Norte,Apartamento,Não,Não,Não,103.8,2,2,1,35,2,1.13,631.75,4488.84
+Zona Leste,Studio,Não,Sim,Sim,53.7,3,1,0,10,13,5.39,418.79,2666.87
+Zona Sul,Apartamento,Não,Sim,Não,,3,2,2,4,10,,366.46,7187.03
+Centro,Studio,Não,Não,Não,71.9,2,1,2,23,3,0.32,745.53,4654.25
+Zona Sul,Apartamento,Sim,Sim,Não,87.1,3,1,1,17,16,2.04,229.47,7637.32
+Zona Sul,Studio,Não,Não,Não,66.5,3,1,1,19,15,,278.02,4704.01
+Zona Oeste,Apartamento,Não,Não,Não,99.2,2,1,0,27,2,2.8,594.34,5453.6
+Zona Oeste,Studio,Não,Sim,Sim,83.3,2,1,3,12,24,1.7,761.54,5441.37
+Zona Leste,Apartamento,Não,Não,Sim,15.5,2,2,2,4,9,,626.38,2415.03
+Zona Oeste,Apartamento,Não,Sim,Não,56.8,4,2,2,29,20,3.73,494.03,5573.95
+Zona Oeste,Apartamento,Sim,Sim,Sim,56.0,3,3,1,0,14,2.49,473.65,5860.57
+Zona Sul,Apartamento,Não,Sim,Sim,82.0,1,1,1,21,7,0.15,802.61,5979.2
+Zona Oeste,Apartamento,Não,Sim,Não,4.4,2,2,2,-5,17,3.86,764.75,3325.91
+,Apartamento,Não,Sim,Sim,133.7,2,2,1,4,2,3.45,,5583.61
+,Apartamento,Não,Sim,Não,83.3,1,3,1,30,6,1.56,480.6,5615.24
+,Apartamento,Sim,Não,Não,73.7,1,1,0,5,9,3.32,558.82,4991.22
+Zona Sul,Studio,Sim,Não,Não,99.5,2,2,2,26,19,5.0,368.2,6372.41
+Centro,Apartamento,Não,Sim,Não,128.6,2,2,0,24,8,0.42,512.46,6696.49
+Zona Sul,Cobertura,,Sim,Sim,91.8,2,1,0,28,13,2.83,427.62,11940.35
+Zona Norte,Apartamento,Sim,Não,Sim,93.7,2,2,1,27,22,4.98,524.79,4172.02
+Zona Oeste,Apartamento,Sim,Sim,Não,73.3,1,1,2,15,13,2.98,436.58,6126.79
+Zona Oeste,Studio,Não,Sim,Sim,66.5,3,2,1,11,10,0.87,680.99,5554.21
+Centro,Apartamento,Sim,Sim,Não,58.1,2,3,0,19,0,2.36,754.6,4638.27
+Zona Norte,Apartamento,Não,Sim,Não,49.3,2,2,0,17,3,4.05,455.07,3374.61
+Zona Norte,Apartamento,Não,Sim,Sim,52.8,2,1,2,33,5,0.48,347.03,3409.91
+Zona Sul,Apartamento,Não,Não,Sim,36.2,2,1,3,22,21,1.95,,5471.92
+Centro,Apartamento,Sim,Sim,Não,68.1,1,3,2,44,21,1.63,596.19,5168.25
+Zona Sul,Cobertura,Sim,Sim,Sim,27.9,1,2,1,26,4,1.05,458.32,7751.14
+,Cobertura,Não,Sim,Não,74.8,1,1,2,16,2,,893.89,9975.51
+Zona Sul,Apartamento,Não,Sim,Sim,,3,2,1,20,1,,,6711.95
+Zona Norte,Apartamento,Não,Sim,Não,73.7,3,2,1,39,2,2.97,51.77,3003.94
+Zona Leste,Apartamento,Sim,Não,Não,56.9,3,1,1,30,8,3.71,373.01,3699.82
+Zona Sul,Apartamento,Não,Não,Não,,3,1,1,2,18,0.09,954.59,10683.98
+Zona Oeste,,Não,Sim,Não,104.0,3,1,2,16,18,2.1,470.57,7525.02
+Zona Oeste,Apartamento,Não,Não,Sim,38.9,2,2,1,25,16,1.92,421.14,3562.4
+Zona Sul,Apartamento,Não,Não,Sim,75.8,2,2,1,22,17,2.31,556.65,6232.28
+Zona Norte,Studio,Não,Não,Não,54.8,1,2,1,5,10,1.98,802.77,2739.55
+Zona Sul,Apartamento,Não,Sim,Sim,44.6,2,2,0,27,11,0.53,529.28,5664.92
+Zona Sul,Apartamento,Sim,Sim,Não,36.5,3,2,1,7,2,4.18,697.84,6205.94
+Centro,Apartamento,Não,Sim,Não,80.8,2,2,0,44,17,4.82,502.68,4279.68
+Zona Leste,Apartamento,Sim,Sim,Não,53.0,2,1,0,7,23,2.82,699.8,3636.82
+Zona Norte,Apartamento,Não,Sim,Não,94.2,2,2,1,18,5,2.9,595.07,4041.98
+,Cobertura,,Sim,Não,94.8,2,1,1,37,6,2.2,450.5,9208.58
+Zona Sul,,Sim,Não,Não,104.3,3,2,2,28,0,3.45,614.52,8793.21
+Zona Oeste,Studio,Sim,Não,Sim,48.7,3,2,1,22,5,1.66,414.37,5655.93
+Zona Sul,Apartamento,,Não,Sim,81.9,2,1,2,31,17,1.99,205.45,6855.33
+Centro,Apartamento,Não,Sim,Sim,85.8,3,3,2,9,12,1.14,545.03,6630.62
+Zona Norte,Apartamento,Não,Sim,Não,58.1,2,1,2,26,21,2.22,227.66,3608.58
+Zona Oeste,Apartamento,Sim,Sim,Não,50.7,3,2,1,0,18,3.64,699.36,5471.5
+Zona Sul,Studio,Não,Sim,Não,110.2,2,1,1,38,6,2.03,540.63,7270.4
+Zona Leste,Studio,Não,Sim,Sim,75.7,2,3,3,28,18,1.46,905.82,
+Zona Leste,Apartamento,Sim,Sim,Não,85.9,2,1,1,44,8,0.1,467.44,4251.32
+,Apartamento,Sim,Sim,Sim,49.4,3,1,0,2,2,1.84,544.99,6288.07
+Zona Leste,Apartamento,Não,Não,Não,39.5,4,1,1,36,22,3.01,182.59,2706.0
+Zona Sul,Studio,Não,Sim,Não,55.8,1,1,0,30,11,0.74,273.98,4016.26
+Zona Leste,Apartamento,Não,Não,Sim,66.9,1,1,3,10,19,1.01,130.32,
+Zona Leste,Apartamento,Sim,Sim,Sim,43.4,4,2,1,21,23,5.41,819.37,3827.86
+,Apartamento,Sim,Sim,Não,69.8,2,1,1,17,17,2.5,435.11,4066.82
+Centro,Apartamento,Não,Sim,Não,27.8,2,1,1,34,7,1.67,881.77,3462.54
+Zona Oeste,Apartamento,Sim,Sim,Sim,42.0,2,1,1,5,8,4.09,120.15,4325.77
+Zona Sul,Apartamento,Sim,Sim,Não,86.8,1,2,0,2,12,2.21,937.02,7134.21
+Zona Sul,Studio,Sim,Sim,Não,85.1,3,2,1,4,7,4.0,532.99,6936.88
+Centro,Apartamento,Não,Sim,Não,60.2,3,2,1,8,21,3.87,634.96,4850.89
+Zona Norte,Apartamento,Não,Sim,Sim,44.6,2,2,1,27,9,0.09,284.26,3073.47
+Zona Leste,Cobertura,Não,Sim,Não,44.3,2,1,2,18,16,2.69,681.82,5096.52
+Centro,Apartamento,Não,Não,Não,60.7,3,1,0,27,6,4.59,456.52,3332.87
+Zona Norte,Studio,Sim,Sim,Não,86.1,1,1,0,26,16,0.5,251.51,3894.56
+Zona Sul,Apartamento,Não,Não,Não,93.2,3,2,0,12,22,0.52,248.08,8138.26
+Zona Leste,Apartamento,Sim,Sim,Sim,57.6,2,3,1,37,17,0.77,243.66,4089.34
+Zona Sul,Studio,Não,Não,Sim,41.2,2,2,2,42,23,,645.06,4518.85
+Zona Leste,Apartamento,Não,Não,Sim,76.7,4,1,2,20,1,2.43,391.09,4041.03
+Zona Sul,Apartamento,Não,Sim,Sim,49.4,3,1,1,26,2,0.9,,5727.18
+Zona Oeste,Apartamento,Não,Sim,Sim,57.0,2,1,1,5,18,2.51,642.32,5549.48
+Centro,Apartamento,Não,Não,Sim,103.1,3,2,1,37,0,1.62,6.82,
+Zona Sul,Apartamento,,Sim,Não,90.7,2,1,0,10,20,1.83,882.27,7986.72
+Centro,,Não,Sim,Sim,73.9,2,3,0,40,20,0.74,1046.6,4993.12
+Zona Oeste,Cobertura,Não,Sim,Não,38.2,4,1,3,16,9,2.52,221.89,9175.09
+Zona Oeste,Apartamento,,Não,Não,75.3,3,3,1,38,20,3.58,,5795.07
+,Apartamento,Não,Não,Não,96.6,2,2,3,6,13,1.04,637.27,8086.2
+Zona Leste,Apartamento,Não,Sim,Sim,60.6,2,2,1,29,12,0.52,424.99,2610.24
+Zona Oeste,Studio,Sim,Sim,Não,103.8,1,2,1,20,8,1.55,436.66,6199.35
+Zona Norte,,Não,Sim,Não,102.3,1,2,0,0,5,3.13,713.62,4824.2
+Zona Norte,Cobertura,Sim,Sim,Não,111.6,2,2,1,24,5,1.37,540.01,9391.5
+Zona Sul,Apartamento,Não,Não,Não,77.6,3,2,1,31,18,0.25,98.55,6658.22
+Centro,Apartamento,Não,Sim,Não,84.7,2,2,1,7,20,3.14,1068.25,5357.09
+Zona Oeste,,Não,Sim,Não,105.4,3,3,0,4,9,-4.12,658.29,6294.84
+Zona Oeste,Apartamento,Não,Sim,Sim,81.2,1,2,1,29,22,2.03,537.0,5104.83
+Zona Leste,Apartamento,Não,Não,Não,57.5,2,2,0,7,2,0.41,370.39,2800.69
+,,Sim,Sim,Sim,58.8,2,2,1,18,17,1.52,502.76,6281.0
+Zona Sul,Studio,Não,Sim,Não,76.0,2,1,1,43,20,2.23,867.3,5071.9
+Zona Leste,Apartamento,Sim,Sim,Sim,37.7,1,1,0,29,18,0.79,615.4,2345.51
+Zona Oeste,Apartamento,Não,Sim,Sim,66.4,4,2,0,14,4,2.88,643.84,5546.28
+Zona Oeste,Apartamento,Sim,Sim,Não,97.4,2,2,0,35,24,0.64,237.71,6706.98
+Zona Leste,Apartamento,Sim,Sim,Não,15.2,3,2,1,43,10,2.04,462.59,2720.6
+Zona Leste,Apartamento,Não,Sim,Sim,108.4,2,1,0,26,9,1.66,562.76,3861.46
+Centro,Apartamento,Sim,Não,Não,98.1,4,2,2,12,16,2.92,724.14,7135.75
+Zona Sul,Apartamento,Não,Não,Não,58.5,2,2,0,13,3,1.98,446.05,5546.12
+Zona Oeste,Apartamento,Sim,Não,Sim,83.6,4,1,0,36,20,1.71,781.97,5408.64
+Zona Leste,Apartamento,Sim,Sim,Não,70.1,1,2,2,29,17,0.8,263.91,4399.66
+Centro,Apartamento,Não,Não,Sim,100.7,3,2,1,38,17,2.05,567.38,
+Centro,Studio,Sim,Sim,Não,94.6,3,1,0,12,0,1.61,525.6,5864.13
+Zona Leste,Studio,Sim,Sim,Não,35.0,1,2,2,15,13,0.69,171.12,2933.4
+Centro,Apartamento,Não,Sim,Sim,84.7,1,2,1,43,7,2.24,538.07,5166.47
+Zona Sul,Studio,Sim,Sim,Sim,64.9,2,1,2,6,1,2.55,404.35,
+Zona Norte,Apartamento,Não,Sim,Sim,,4,1,1,26,18,1.49,903.44,3512.69
+Zona Leste,Apartamento,Sim,Sim,Não,51.8,2,3,1,44,14,3.4,,3163.72
+Zona Leste,Apartamento,Sim,Sim,Não,113.7,2,1,3,34,1,2.4,637.72,5402.74
+Zona Sul,Apartamento,Não,Sim,Não,96.0,1,1,0,14,3,0.07,242.24,6810.33
+Zona Leste,Apartamento,Sim,Sim,Sim,51.5,1,1,1,27,0,4.01,609.14,2952.8
+Zona Sul,Cobertura,Sim,Sim,Sim,36.6,3,2,1,34,18,3.15,446.24,9026.09
+Zona Sul,Apartamento,Não,Sim,Sim,60.4,1,2,0,6,20,3.5,355.93,5132.23
+Zona Leste,Apartamento,Sim,Não,Sim,80.9,2,2,0,19,9,2.6,1258.47,4185.45
+Zona Leste,Apartamento,Não,Não,Não,76.0,3,1,0,31,0,,,3452.34
+,Cobertura,Sim,Sim,Não,101.3,2,2,1,37,19,3.64,497.01,11280.58
+Zona Leste,Apartamento,Não,Sim,Não,89.7,3,1,1,39,21,,775.5,4274.99
+Zona Norte,Apartamento,Não,Sim,Sim,94.2,1,1,1,31,14,2.53,,3705.95
+Centro,Apartamento,,Não,Não,78.2,2,2,0,25,3,2.81,650.82,4016.06
+Zona Sul,Apartamento,Não,Sim,Não,35.3,1,1,1,38,6,4.9,677.58,3898.65
+Zona Sul,,Não,Sim,Não,65.1,3,2,2,19,6,1.18,611.18,13759.49
+Zona Sul,Cobertura,Não,Sim,Não,96.5,2,3,1,17,21,1.22,1124.08,15806.07
+Zona Oeste,Apartamento,Sim,Sim,Sim,68.7,2,1,1,14,24,0.72,348.93,6036.6
+Zona Sul,Cobertura,Não,Sim,Sim,82.6,2,2,2,21,17,0.4,934.4,13232.88
+Zona Oeste,Apartamento,Não,Não,Não,62.0,1,2,2,21,12,0.42,668.04,4219.34
+Zona Leste,Studio,Não,Sim,Sim,44.3,3,3,1,20,9,0.78,777.36,3250.09
+Zona Leste,Apartamento,Não,Sim,Sim,66.9,2,1,2,1,23,2.64,635.31,3772.4
+Zona Norte,Apartamento,Não,Não,Não,77.7,3,2,1,39,7,4.98,1019.57,3745.89
+Zona Norte,Apartamento,Sim,Não,Não,53.6,1,1,2,42,9,5.08,469.98,2796.45
+Zona Norte,Apartamento,Sim,Sim,Não,64.1,3,2,0,17,13,0.72,674.31,4084.25
+Zona Sul,Apartamento,Não,Sim,Sim,46.5,1,1,1,22,13,1.59,876.37,5520.74
+Zona Leste,Apartamento,Não,Sim,Sim,98.0,2,2,0,12,19,3.85,410.29,4695.17
+Zona Sul,Apartamento,Não,Não,Não,62.6,2,1,2,40,21,2.65,800.11,4947.97
+Centro,Apartamento,,Sim,Não,106.3,3,1,1,8,10,2.2,545.34,5444.17
+Zona Leste,Apartamento,Não,Não,Não,108.2,2,2,0,6,5,1.61,241.28,4251.19
+Zona Sul,Apartamento,Não,Sim,Não,68.0,3,2,0,40,20,3.77,,6232.95
+Zona Oeste,,Sim,Sim,Não,44.8,3,2,2,0,0,0.39,527.3,10662.52
+Zona Oeste,Apartamento,Sim,Sim,Não,17.9,1,2,2,1,18,2.72,797.72,4239.84
+Zona Oeste,Apartamento,Não,Sim,Sim,33.2,2,1,1,3,6,2.52,30.26,3601.75
+Zona Sul,Apartamento,Não,Sim,Não,35.7,1,2,1,13,23,2.07,600.11,4715.33
+Centro,Studio,Sim,Sim,Não,104.5,2,2,1,31,17,3.18,773.09,5927.93
+Zona Oeste,Apartamento,Não,Sim,Não,72.9,3,1,1,35,2,2.05,230.51,5465.97
+Zona Norte,Apartamento,Não,Não,Não,79.7,3,2,2,1,19,1.2,391.51,4853.39
+Zona Oeste,Studio,Não,Sim,Não,14.5,2,2,0,39,10,2.14,693.09,2076.37
+Zona Oeste,Cobertura,Não,Não,Sim,,2,2,1,13,4,0.39,762.13,9152.45
+Zona Oeste,Apartamento,Não,Sim,Não,92.2,2,2,1,19,18,2.92,951.02,5612.51
+,Apartamento,Sim,Sim,Sim,77.2,1,2,1,24,20,3.3,403.41,6356.51
+Zona Sul,Apartamento,Não,Sim,Não,66.3,3,1,1,41,23,1.02,,
+,Studio,Não,Sim,Sim,84.1,2,1,1,7,23,0.66,963.17,5616.29
+Zona Sul,Apartamento,Sim,Não,Sim,110.9,3,2,0,27,1,1.07,361.26,8892.84
+Zona Sul,Apartamento,Não,Sim,Sim,64.5,2,1,1,20,21,1.91,676.82,5729.52
+Zona Norte,Cobertura,Não,Sim,Não,71.7,2,1,0,22,3,2.32,,6487.42
+Zona Oeste,Apartamento,Não,Sim,Sim,74.8,2,1,0,31,24,4.42,738.18,4175.2
+Zona Leste,Apartamento,Não,Sim,Sim,129.8,1,2,0,7,9,4.23,745.82,5124.37
+Zona Norte,Apartamento,,Sim,Não,,2,1,2,30,1,3.25,869.52,3018.21
+Centro,Apartamento,Não,Não,Sim,,3,2,1,36,7,2.18,681.22,5487.36
+Zona Leste,Apartamento,Não,Não,Não,67.1,3,2,1,15,0,0.61,747.02,4274.86
+Zona Oeste,Apartamento,Não,Sim,Não,84.2,2,1,1,39,5,4.52,464.35,5711.24
+Centro,Apartamento,Sim,Sim,Não,53.6,2,2,1,41,10,1.63,839.99,5374.96
+Zona Norte,Apartamento,Não,Sim,Sim,68.8,1,2,1,26,9,2.42,653.37,3667.25
+Zona Oeste,Cobertura,Não,Sim,Não,87.8,3,2,1,39,12,2.94,180.48,10481.57
+Zona Leste,Apartamento,Sim,Sim,Sim,147.8,1,2,1,40,0,2.09,610.74,5347.99
+,Cobertura,,Sim,Não,90.2,4,1,1,17,1,3.73,7.59,8332.46
+Zona Leste,Apartamento,Não,Sim,Sim,48.8,2,2,1,34,2,2.68,728.48,3371.03
+Zona Sul,Studio,Não,Sim,Não,59.4,2,1,2,14,8,3.48,491.61,4909.49
+Zona Sul,Studio,Sim,Sim,Sim,58.7,3,3,2,26,4,2.67,1026.39,7215.74
+Zona Oeste,Apartamento,Não,Sim,Não,25.1,1,2,0,16,9,1.94,672.41,3730.3
+Zona Oeste,Apartamento,Não,Sim,Não,61.7,2,2,0,39,9,2.11,781.05,4278.49
+Zona Oeste,Studio,,Sim,Não,88.3,2,1,1,1,11,1.91,287.69,5461.54
+Zona Oeste,Apartamento,Sim,Não,Sim,38.1,2,1,1,30,17,0.07,721.14,4411.4
+Zona Norte,Apartamento,Não,Sim,Não,96.2,2,1,0,36,20,0.5,389.84,4203.13
+Zona Norte,Apartamento,Sim,Sim,Não,82.2,3,2,2,40,20,,822.63,4565.66
+Zona Leste,Studio,Não,Sim,Não,51.6,3,1,0,40,0,0.11,270.41,2148.81
+Zona Leste,Studio,Sim,Não,Sim,66.5,1,2,2,33,2,1.39,577.45,2985.54
+Zona Leste,Studio,Sim,Sim,Não,110.0,4,1,1,33,4,0.42,260.53,
+Zona Leste,Apartamento,Não,Sim,Sim,88.3,1,3,2,2,24,1.31,581.45,4639.87
+Zona Oeste,Studio,Sim,Sim,Sim,70.2,2,1,0,16,16,1.77,1055.62,5374.27
+Zona Sul,Apartamento,Não,Não,Sim,64.1,2,3,0,13,7,1.39,730.32,6470.38
+,Apartamento,Sim,Não,Não,71.9,1,3,1,13,16,0.14,541.84,6439.91
+Centro,Apartamento,Não,Sim,Sim,57.2,1,2,0,37,8,1.72,65.54,2977.41
+Zona Norte,Apartamento,Sim,Não,Sim,17.4,4,2,1,34,5,0.56,416.08,3136.88
+Centro,Apartamento,Sim,Não,Não,121.1,2,1,1,-13,16,1.05,668.66,6743.2
+Zona Norte,Apartamento,Sim,Não,Não,73.9,1,2,0,28,7,3.11,422.29,3334.99
+Zona Norte,Apartamento,Não,Sim,Sim,80.0,1,1,0,3,20,3.43,906.79,3805.99
+Zona Sul,Apartamento,,Sim,Não,68.6,3,1,2,32,6,0.03,567.88,7455.27
+Zona Norte,Apartamento,,Sim,Sim,51.6,3,2,0,16,6,4.35,,3114.93
+Centro,Apartamento,Não,Não,Sim,65.4,2,2,0,27,14,1.23,601.23,3816.06
+Centro,Apartamento,Não,Sim,Sim,30.0,1,2,1,25,6,1.1,481.0,
+Zona Oeste,Apartamento,Sim,Sim,Não,126.9,2,1,3,7,21,0.66,432.17,8367.52
+Zona Sul,Apartamento,Não,Sim,Sim,39.1,1,1,1,33,7,2.08,296.96,4223.12
+Centro,Apartamento,Não,Não,Sim,44.2,1,1,0,17,8,4.97,824.15,2618.91
+Zona Norte,Apartamento,Não,Não,Sim,59.0,2,1,1,30,14,0.31,443.0,3932.22
+Zona Leste,Apartamento,Não,Sim,Não,102.2,2,1,2,26,1,1.09,680.57,3930.96
+Zona Sul,Apartamento,Sim,Não,Sim,70.4,2,1,2,15,6,2.4,418.56,6856.02
+Zona Leste,Apartamento,Não,Sim,Sim,39.1,2,1,1,9,14,2.85,,2833.53
+Centro,Studio,Não,Não,Sim,101.4,4,2,1,39,17,2.08,688.79,4859.15
+Centro,Apartamento,Não,Sim,Sim,,3,1,1,11,21,2.89,363.32,4588.85
+Zona Norte,Apartamento,Não,Sim,Não,83.5,2,2,0,21,17,0.3,449.88,3840.25
+Zona Norte,Apartamento,Sim,Não,Não,87.9,2,1,1,15,9,0.58,237.83,4954.47
+Zona Leste,Apartamento,Sim,Sim,Sim,129.9,2,2,1,11,21,2.19,426.72,6092.6
+Zona Leste,Apartamento,Não,Não,Sim,124.6,2,2,3,10,17,4.64,556.03,4816.35
+Zona Oeste,Apartamento,Não,Sim,Sim,52.8,3,1,1,19,0,2.84,478.13,4688.16
+Zona Norte,Apartamento,Sim,Sim,Sim,110.6,2,2,0,0,6,2.91,754.56,5111.85
+Zona Sul,Apartamento,Sim,Sim,Sim,79.6,3,1,1,26,2,0.39,586.38,7681.02
+Zona Leste,Apartamento,Sim,Sim,Não,82.5,4,2,1,2,13,2.63,1321.83,5279.24
+Zona Sul,Studio,Sim,Sim,Não,27.7,2,1,2,11,11,0.23,,5844.74
+Zona Norte,Studio,Não,Sim,Não,65.7,2,3,0,29,13,4.65,116.13,2515.15
+Centro,Apartamento,Não,Sim,Não,49.7,1,1,1,8,3,0.48,496.78,4057.08
+Centro,Cobertura,Sim,Sim,Não,90.7,2,1,1,36,12,0.81,518.44,10261.99
+Zona Oeste,Apartamento,Não,Não,Não,,2,2,1,0,15,0.21,396.59,6892.0
+Zona Oeste,Apartamento,Sim,Não,Sim,18.1,2,1,2,41,15,2.13,568.15,2936.74
+Zona Leste,Apartamento,Sim,Sim,Não,69.4,3,2,1,3,21,2.07,389.15,3977.26
+Zona Norte,Apartamento,,Não,Não,98.0,1,2,2,14,4,4.27,633.2,4151.52
+Zona Sul,Studio,,Sim,Não,65.3,2,2,1,26,19,3.16,72.83,5174.1
+Zona Sul,Apartamento,Não,Sim,Não,88.2,2,1,2,7,24,0.81,836.04,8315.04
+Zona Sul,,Sim,Não,Sim,78.8,3,2,1,22,5,3.31,155.43,6549.15
+Zona Norte,Apartamento,Não,Não,Sim,,2,2,2,14,5,0.13,484.11,4102.13
+Zona Leste,Cobertura,Não,Sim,Não,63.2,3,1,1,26,17,0.92,366.82,6285.05
+Zona Leste,Apartamento,Não,Não,Sim,39.6,2,1,1,30,5,2.18,626.48,1921.13
+Zona Sul,Apartamento,Não,Sim,Não,42.0,2,1,0,38,6,0.3,504.19,4735.76
+,Apartamento,Não,Não,Não,87.7,1,3,1,7,23,3.6,612.91,4991.68
+,Apartamento,Sim,Sim,Não,70.5,2,1,1,29,23,,827.8,4013.64
+Zona Norte,Apartamento,Sim,Sim,Não,66.5,3,2,1,41,15,1.56,742.15,4766.32
+Zona Leste,Apartamento,Sim,Sim,Sim,59.4,2,1,3,17,8,1.02,559.08,4431.68
+Zona Norte,Studio,Sim,Sim,Sim,62.4,3,1,0,3,12,1.81,664.88,3512.87
+Zona Sul,Apartamento,Não,Sim,Não,96.2,2,2,2,42,11,1.16,1040.0,7852.21
+Zona Sul,Apartamento,Não,Não,Não,61.6,1,3,3,21,18,2.39,751.06,6043.06
+Zona Leste,Apartamento,Não,Sim,Não,36.5,1,2,0,2,22,0.02,476.62,2920.76
+Centro,Apartamento,Sim,Sim,Sim,88.6,2,2,1,14,22,2.48,869.47,6185.41
+Centro,Apartamento,Não,Sim,Sim,64.9,3,2,1,34,0,4.87,647.83,4270.32
+Centro,Apartamento,Não,Sim,Não,70.8,3,1,0,37,7,1.0,309.31,4391.94
+Centro,Apartamento,Não,Sim,Sim,110.2,2,1,1,32,3,0.25,504.82,6140.1
+Zona Oeste,Apartamento,Não,Sim,Não,69.5,2,2,2,13,20,1.33,181.94,5215.55
+Zona Leste,Apartamento,Não,Sim,Sim,77.2,2,3,0,0,21,2.81,21.26,3591.42
+Zona Norte,Apartamento,Não,Sim,Não,40.5,2,2,1,25,18,3.34,312.74,2922.74
+Centro,Apartamento,Sim,Sim,Não,64.5,2,1,1,7,20,3.21,580.65,5210.54
+,Apartamento,Não,Não,Não,85.2,1,1,2,15,4,0.54,581.38,3540.65
+Zona Norte,Apartamento,Sim,Não,Sim,31.1,1,1,0,37,16,0.99,197.11,2978.13
+Zona Sul,Apartamento,Sim,Sim,Não,75.0,1,3,1,9,2,0.65,44.69,6562.8
+Zona Norte,Apartamento,Sim,Sim,Não,72.5,1,2,1,41,18,1.9,917.69,4695.38
+Zona Sul,Cobertura,Não,Sim,Sim,71.0,1,2,1,36,0,2.03,573.82,10627.23
+,Apartamento,Não,Sim,Não,95.9,2,1,2,25,22,0.05,,4057.09
+Zona Leste,Studio,Não,Sim,Não,78.4,2,2,2,27,0,1.34,924.65,3173.77
+Centro,Apartamento,Sim,Sim,Não,107.0,4,2,0,11,22,2.87,733.68,7324.75
+Zona Sul,Apartamento,Não,Sim,Não,45.2,1,1,1,19,19,1.06,564.79,4642.61
+Zona Leste,Apartamento,Não,Sim,Sim,73.4,2,2,1,13,8,1.7,450.59,3498.89
+Zona Norte,Cobertura,Não,Sim,Sim,72.1,2,1,1,34,22,4.55,729.65,6754.76
+,Apartamento,Não,Não,Sim,43.3,1,1,1,28,4,4.99,510.04,2379.58
+Zona Leste,Studio,Sim,Não,Não,93.9,3,2,1,11,6,1.24,402.6,4145.01
+Zona Sul,Studio,Sim,Sim,Não,128.1,1,2,1,17,24,2.17,25.52,7515.87
+Centro,Apartamento,Não,Sim,Não,69.6,4,1,3,43,5,,529.22,3652.82
+Zona Leste,Apartamento,Sim,Não,Sim,82.6,3,2,0,1,16,2.72,824.17,4588.38
+Centro,Apartamento,Não,Não,Sim,72.1,2,1,2,1,21,2.03,864.83,4541.09
+Zona Norte,Apartamento,Não,Sim,Não,52.2,2,2,1,16,16,3.97,563.32,3653.16
+Zona Oeste,Studio,Não,Sim,Não,24.5,3,2,1,9,12,2.33,327.82,4242.26
+Zona Norte,Studio,Sim,Sim,Sim,52.4,2,2,2,17,11,3.06,775.69,3861.99
+Zona Sul,Apartamento,Sim,Sim,Não,35.2,2,2,1,21,3,1.68,546.16,5607.71
+Zona Leste,Apartamento,Sim,Sim,Sim,112.6,1,1,1,18,7,2.31,458.58,4749.88
+Zona Norte,Studio,Não,Sim,Sim,67.1,1,1,1,0,4,2.64,186.02,2783.44
+Zona Norte,Apartamento,Não,Sim,Não,61.4,2,2,1,23,4,3.3,1075.94,3502.19
+Zona Oeste,Studio,Sim,Sim,Sim,92.2,2,1,2,35,12,1.35,734.6,6514.22
+Zona Sul,Apartamento,Não,Não,Não,42.0,3,2,2,24,10,1.31,761.56,6282.58
+Zona Oeste,Apartamento,Não,Sim,Sim,50.8,1,1,0,35,7,0.89,334.3,
+Zona Oeste,Apartamento,Sim,Sim,Sim,71.7,3,1,0,30,7,1.42,569.94,6071.25
+Zona Sul,Apartamento,Não,Sim,Sim,95.7,2,1,1,30,0,3.43,529.63,6733.89
+Centro,Apartamento,Não,Sim,Não,82.5,2,3,0,1,12,2.69,745.52,5541.14
+Centro,Apartamento,Sim,Não,Sim,76.2,2,1,1,18,4,0.5,889.93,5527.24
+Centro,Apartamento,Sim,Sim,Não,72.0,2,2,0,11,20,0.86,191.45,4407.95
+Centro,Apartamento,Não,Sim,Sim,80.0,1,1,1,9,7,1.79,281.33,4900.47
+Zona Leste,Studio,Não,Não,Sim,75.0,2,1,0,30,16,3.39,711.43,3047.2
+Centro,Apartamento,Não,Sim,Sim,44.3,3,2,1,44,22,1.28,422.99,3811.44
+Zona Sul,Apartamento,Não,Não,Não,71.2,2,2,1,21,22,0.17,753.72,7189.12
+Zona Oeste,Apartamento,Sim,Sim,Não,43.2,2,2,1,22,12,1.12,,4121.44
+Centro,Apartamento,Sim,Sim,Sim,72.0,3,2,3,22,8,2.49,237.81,5999.95
+Zona Oeste,Apartamento,Não,Sim,Não,,3,1,2,14,1,3.86,110.16,4981.3
+Zona Sul,Apartamento,Sim,Sim,Não,133.5,2,1,1,25,18,1.61,671.03,9201.88
+Centro,Apartamento,Sim,Não,Sim,69.0,2,3,0,2,19,3.58,677.16,5038.56
+Zona Leste,Apartamento,Não,Não,Não,34.9,3,1,2,22,16,3.42,792.55,3016.37
+Zona Leste,Apartamento,Não,Sim,Sim,66.6,2,2,2,19,6,0.24,631.97,3332.4
+Zona Oeste,Apartamento,Não,Sim,Não,83.0,2,2,2,44,2,3.88,389.36,5764.57
+Zona Leste,Cobertura,,Não,Não,111.8,2,1,0,39,18,2.44,675.86,6961.27
+Zona Oeste,,Sim,Não,Não,55.3,3,2,3,38,18,0.19,185.64,6201.13
+Zona Sul,Apartamento,Não,Sim,Não,30.4,1,1,1,7,23,4.64,83.07,3658.25
+Zona Sul,Apartamento,Sim,Sim,Sim,90.4,4,1,1,17,8,1.81,52.96,8127.2
+Zona Leste,Apartamento,Não,Sim,Não,35.5,1,1,2,40,9,0.92,29.95,2304.19
+Zona Oeste,Apartamento,Não,Não,Sim,59.1,3,2,0,5,13,0.94,619.74,5384.89
+Zona Oeste,Apartamento,Não,Sim,Sim,63.6,2,1,2,26,17,0.57,367.2,5849.48
+Zona Norte,Cobertura,Não,Sim,Não,68.3,2,2,1,35,14,0.98,170.22,6127.82
+Zona Sul,Apartamento,Não,Não,Não,87.2,3,3,3,14,0,1.33,555.77,8364.28
+Zona Leste,Apartamento,Sim,Sim,Não,52.9,2,2,1,36,24,1.61,273.52,2946.04
+Zona Sul,Apartamento,Não,Sim,Sim,63.2,2,2,3,4,5,1.56,795.27,7304.93
+Zona Oeste,Apartamento,,Sim,Não,69.6,1,2,0,38,14,1.85,912.55,4439.75
+Zona Oeste,Apartamento,Sim,Sim,Não,73.7,1,1,1,8,24,2.88,495.6,5105.93
+Zona Norte,Apartamento,Não,Sim,Sim,72.4,2,2,1,6,5,0.88,894.32,5020.55
+Zona Leste,Apartamento,,Sim,Sim,80.9,3,2,1,40,17,3.77,893.9,3694.91
+Zona Leste,Studio,Sim,Sim,Sim,91.1,1,3,0,19,0,0.16,571.15,4192.64
+Centro,Apartamento,Não,Sim,Sim,79.8,1,3,1,9,23,,983.36,4979.72
+Zona Oeste,Apartamento,Não,Não,Não,81.3,2,2,0,25,2,4.46,394.58,4589.71
+Zona Norte,Apartamento,Não,Não,Não,30.4,2,2,1,3,16,1.73,61.19,3810.01
+Zona Oeste,Apartamento,Não,Sim,Não,71.3,3,2,1,37,15,2.29,161.41,4722.59
+Zona Sul,Apartamento,Não,Sim,Não,82.0,1,2,3,23,7,0.55,383.08,7385.23
+Zona Oeste,Apartamento,Não,Sim,Sim,88.2,1,2,0,13,16,1.23,683.58,6672.36
+Zona Sul,Apartamento,Não,Sim,Não,52.7,4,1,0,40,7,4.35,261.29,5643.56
+,Studio,Sim,Sim,Sim,53.5,2,3,0,0,16,3.12,381.05,4415.55
+Zona Oeste,Apartamento,Não,Sim,Não,55.6,3,1,1,16,24,2.63,237.63,4420.83
+Centro,,Não,Sim,Sim,83.4,3,2,0,44,8,0.91,386.77,5688.88
+Zona Sul,Studio,Sim,Sim,Não,95.8,3,2,1,23,11,0.93,885.68,8443.13
+Zona Oeste,Apartamento,Não,Sim,Sim,59.8,1,3,2,26,24,4.61,,4054.19
+Zona Oeste,Apartamento,Não,Sim,Sim,92.7,3,1,1,6,18,2.62,405.75,
+Zona Norte,Apartamento,Sim,Sim,Não,73.1,3,2,1,8,3,2.8,855.12,4466.53
+Zona Leste,Apartamento,Não,Sim,Sim,66.9,2,2,0,42,20,2.26,556.42,2128.46
+Zona Norte,Apartamento,Não,Sim,Não,64.7,2,1,1,34,21,1.08,583.41,3105.16
+Zona Sul,Cobertura,Não,Não,Sim,88.7,2,2,0,11,24,-2.5,835.69,12614.54
+Zona Sul,Apartamento,Sim,Não,Não,78.1,1,2,2,20,10,0.3,464.34,7227.43
+Zona Leste,Apartamento,Sim,Sim,Sim,126.9,2,2,1,2,3,0.41,779.06,5862.02
+Zona Leste,Apartamento,Não,Sim,Sim,48.7,2,1,1,14,13,0.9,761.23,3860.28
+Zona Leste,Apartamento,Não,Sim,Sim,83.0,2,2,1,20,13,2.29,513.61,4426.76
+Zona Leste,Apartamento,Sim,Sim,Não,56.8,2,2,2,9,5,0.35,200.95,4164.58
+Centro,,Não,Sim,Sim,48.3,2,1,0,32,16,,553.17,
+Zona Norte,Cobertura,Sim,Não,Sim,,2,1,1,5,1,0.51,834.31,7706.71
+Centro,Apartamento,Sim,Sim,Sim,73.4,3,3,0,1,7,0.71,754.94,6302.03
+Zona Norte,Apartamento,Não,Não,Sim,143.0,1,2,1,28,3,,977.56,4453.7
+Zona Norte,Apartamento,Não,Sim,Não,65.4,2,2,2,39,9,2.06,427.4,3631.57
+Zona Oeste,Apartamento,Sim,Sim,Não,41.7,1,1,1,32,6,0.64,744.83,4581.64
+Zona Sul,Apartamento,Não,Não,Sim,,2,1,1,3,3,2.28,298.43,6761.95
+Centro,Apartamento,Sim,Sim,Não,18.1,3,1,2,3,15,0.2,600.4,4880.52
+Centro,Studio,Não,Sim,Não,67.7,4,1,1,28,13,2.57,826.35,4824.2
+Zona Leste,Apartamento,Não,Sim,Sim,70.4,2,2,1,36,15,3.66,776.61,4072.89
+Zona Leste,Apartamento,Sim,Sim,Não,,4,2,1,19,24,2.99,575.77,5347.77
+Centro,Studio,Sim,Não,Sim,-94.3,1,2,1,40,8,5.24,,4098.55
+Centro,Studio,Não,Sim,Não,57.4,2,1,0,22,3,0.91,301.29,4202.25
+Zona Leste,Apartamento,Não,Não,Sim,66.2,1,2,2,44,23,2.19,493.56,3218.18
+Centro,Apartamento,Não,Não,Não,50.8,3,1,1,17,5,0.02,222.45,4751.06
+Zona Oeste,Apartamento,Sim,Não,Não,41.8,2,1,0,24,0,1.74,464.2,3557.31
+Zona Leste,Cobertura,Não,Sim,Sim,,3,3,2,0,6,2.0,98.44,7830.11
+Centro,Studio,Não,Sim,Sim,38.2,3,2,1,14,0,5.42,220.33,2976.62
+Centro,Apartamento,Não,Não,Não,59.6,1,2,0,33,18,1.91,763.2,3604.47
+,Studio,Não,Sim,Sim,45.1,1,1,1,19,7,1.88,735.35,4323.6
+Zona Sul,Apartamento,,Sim,Não,83.7,3,3,2,36,24,3.51,477.79,7099.05
+Zona Sul,Apartamento,Não,Sim,Não,115.0,2,2,2,26,2,1.92,566.19,8919.46
+Zona Oeste,Apartamento,Não,Sim,Não,37.5,1,2,3,21,0,4.75,599.72,3386.96
+Zona Oeste,Studio,,Sim,Não,23.7,2,1,2,4,0,3.0,665.08,4370.09
+Zona Oeste,,Não,Sim,Não,66.9,2,3,0,33,6,3.24,638.33,4380.5
+Zona Leste,Studio,Sim,Sim,Não,70.4,1,2,1,38,20,0.8,215.81,3731.78
+,Studio,Não,Não,Não,75.5,2,2,2,2,12,4.98,60.77,5857.48
+Centro,Apartamento,Não,Sim,Não,58.8,1,1,1,16,0,,295.78,4157.13
+Zona Leste,Apartamento,Não,Não,Sim,65.0,2,1,1,23,15,1.99,511.42,2750.49
+Zona Norte,Apartamento,Sim,Sim,Não,79.2,3,1,1,23,21,1.02,790.05,4504.98
+Zona Norte,Apartamento,Sim,Não,Não,96.0,4,1,1,2,21,0.46,608.59,6101.83
+Zona Oeste,Apartamento,Não,Sim,Sim,21.1,2,2,2,44,13,0.2,683.59,4362.16
+Centro,Apartamento,Sim,Não,Não,60.8,1,1,1,6,3,2.15,325.78,4518.24
+Zona Norte,Cobertura,Não,Sim,Não,75.3,3,1,1,24,22,0.95,532.32,8029.31
+Centro,Apartamento,Sim,Não,Sim,47.1,2,1,3,2,22,1.64,566.37,4080.53
+Zona Norte,,Sim,Sim,Não,113.3,1,1,1,14,11,3.59,361.08,4172.53
+Centro,Apartamento,Sim,Não,Sim,54.1,3,1,0,28,24,2.95,282.61,3777.65
+Centro,Apartamento,Sim,Não,Não,,3,2,1,28,11,2.65,493.33,4888.86
+,Apartamento,Não,Sim,Sim,83.9,3,2,2,9,16,0.66,715.31,5986.2
+Zona Leste,Apartamento,Sim,Sim,Não,55.2,3,1,2,31,20,,323.76,4212.15
+Zona Leste,Studio,Não,Não,Não,23.8,2,1,2,22,14,3.56,497.95,2329.47
+Zona Norte,Apartamento,Não,Sim,Sim,59.3,2,1,1,38,9,1.33,888.75,3380.7
+Zona Oeste,Cobertura,Não,Não,Não,95.7,3,1,1,8,2,1.88,420.16,11157.72
+Zona Sul,Studio,Não,Sim,Não,61.6,2,2,2,36,22,1.7,551.82,5895.08
+Zona Sul,Apartamento,Não,Sim,Sim,48.8,2,2,2,39,19,3.01,523.57,5192.01
+Zona Oeste,,Não,Não,Não,93.1,3,2,0,13,19,4.76,503.05,10550.17
+Zona Sul,Apartamento,Sim,Sim,Não,61.7,3,2,0,3,11,4.19,967.12,6832.63
+Zona Oeste,Studio,Não,Não,Sim,57.2,2,1,3,19,0,1.5,626.44,4616.31
+Centro,,Não,Sim,Sim,73.7,3,3,2,27,0,1.54,157.45,5134.06
+Zona Oeste,Studio,Não,Sim,Sim,89.3,3,2,2,13,9,0.02,932.1,6955.73
+Centro,Studio,Não,Sim,Sim,129.5,3,3,2,43,17,3.41,618.7,6289.23
+Zona Oeste,Studio,Não,Sim,Não,90.7,2,1,1,33,14,2.01,456.61,4784.84
+Zona Norte,Studio,Não,Sim,Não,99.0,2,3,1,12,1,2.91,887.36,4721.53
+Zona Oeste,Apartamento,Não,Sim,Sim,57.4,2,2,1,30,16,1.41,355.33,4531.43
+Centro,Apartamento,Não,Sim,Sim,44.4,1,2,0,32,7,0.44,978.93,3393.5
+Zona Norte,Apartamento,Sim,Sim,Sim,71.6,2,1,1,38,21,0.7,573.33,3737.91
+Zona Oeste,Apartamento,Não,Não,Não,72.7,2,2,1,27,21,0.3,801.39,4840.01
+Zona Norte,Apartamento,Sim,Sim,Sim,43.0,2,3,1,24,8,0.1,1316.88,4596.49
+Zona Leste,Apartamento,Sim,Sim,Não,65.6,3,2,1,31,20,0.21,595.02,4959.93
+Zona Leste,Cobertura,Não,Sim,Não,80.0,1,2,1,8,19,0.45,525.79,6832.46
+Zona Norte,Apartamento,Sim,Sim,Sim,79.0,3,3,0,27,10,0.36,283.24,4688.66
+Zona Leste,,Sim,Não,Não,82.6,3,1,1,30,5,,519.86,3027.73
+Zona Norte,Apartamento,Sim,Sim,Não,77.3,1,2,0,16,23,2.53,290.96,3135.56
+Zona Oeste,Studio,Não,Sim,Não,57.3,3,2,0,22,13,,503.26,4852.57
+Centro,Studio,Não,Sim,Não,57.2,2,3,3,12,0,3.76,1273.67,3922.88
+Zona Sul,Apartamento,Não,Sim,Sim,40.0,2,1,0,9,6,1.88,579.9,4401.77
+Zona Oeste,Apartamento,Não,Não,Sim,114.6,3,2,1,15,23,0.83,,7437.79
+Zona Oeste,Studio,Não,Sim,Não,70.3,2,2,1,5,8,5.32,497.57,4643.69
+Zona Norte,Apartamento,Sim,Não,Sim,64.4,3,2,1,10,10,3.36,447.03,4325.57
+Zona Leste,Apartamento,Não,Sim,Sim,46.8,1,2,0,2,23,2.23,812.1,2997.41
+Zona Sul,Apartamento,,Sim,Sim,143.4,3,3,2,27,22,2.12,527.44,10382.09
+,Apartamento,Não,Não,Sim,43.2,2,3,2,40,15,2.43,952.22,4996.74
+Zona Norte,Apartamento,,Sim,Não,59.3,2,1,0,14,18,1.7,470.98,3598.16
+Zona Sul,Apartamento,Não,Sim,Sim,80.4,2,1,1,12,1,2.19,,6540.4
+Zona Norte,Apartamento,Não,Sim,Não,85.0,3,1,2,41,14,2.75,325.8,3465.6
+Centro,Apartamento,Sim,Sim,Não,93.9,3,1,2,44,2,0.91,454.15,5809.48
+Zona Oeste,,Não,Sim,Sim,115.2,2,2,1,16,3,0.45,116.61,12500.04
+Zona Oeste,Apartamento,Sim,Sim,Sim,82.7,2,3,0,6,19,1.11,17.55,6187.31
+Zona Leste,Cobertura,Sim,Sim,Não,43.6,2,2,1,27,21,3.33,706.17,5490.52
+Zona Norte,Apartamento,Não,Sim,Sim,63.6,3,1,1,37,6,0.37,113.64,4033.23
+Zona Sul,Apartamento,Sim,Sim,Não,77.7,2,1,0,12,11,2.7,651.49,7038.39
+Zona Oeste,Apartamento,Não,Sim,Não,121.7,3,2,1,16,3,0.27,424.88,8560.11
+Zona Leste,Apartamento,Não,Sim,Sim,35.1,3,2,1,14,9,0.29,784.88,2943.73
+Zona Sul,Apartamento,Sim,Sim,Não,100.1,2,1,1,35,5,0.92,119.15,7377.99
+Zona Oeste,Apartamento,Não,Não,Não,74.5,2,2,2,27,24,2.29,699.56,5926.19
+Zona Oeste,Apartamento,Sim,Sim,Sim,90.9,2,3,2,14,21,0.07,632.9,6858.28
+Zona Oeste,Apartamento,Sim,Não,Não,67.5,3,1,1,10,13,1.07,640.63,5530.95
+Zona Leste,Apartamento,Sim,Sim,Não,48.9,2,2,2,30,2,1.96,830.97,3602.48
+,Apartamento,Sim,Sim,Sim,88.8,2,1,0,3,16,0.18,567.57,5505.65
+Zona Norte,,Sim,Sim,Não,86.4,3,2,2,34,10,4.14,61.96,4333.19
+Zona Oeste,Studio,Não,Sim,Não,,2,2,0,33,9,0.58,662.28,5984.18
+Zona Oeste,Apartamento,Não,Sim,Não,69.7,2,1,0,26,20,1.67,629.92,4911.93
+Centro,Apartamento,Sim,Sim,Não,55.0,2,3,1,9,9,3.91,488.84,4416.58
+Centro,Cobertura,Não,Sim,Não,31.0,1,2,1,29,9,0.01,339.56,6892.49
+Zona Sul,Apartamento,Não,Não,Sim,90.5,3,2,2,44,2,1.84,459.77,7458.92
+Zona Oeste,Apartamento,Não,Sim,Não,80.6,1,1,1,19,23,2.2,914.51,5403.74
+Zona Oeste,Cobertura,Não,Sim,Sim,45.9,2,1,1,28,14,0.79,320.02,7761.45
+Zona Sul,Apartamento,Sim,Não,Não,56.5,3,1,1,28,16,1.88,114.9,6059.12
+Zona Norte,Apartamento,Sim,Sim,Sim,58.3,2,2,1,22,17,2.84,182.93,4723.96
+,Apartamento,Não,Sim,Sim,32.9,4,2,1,20,18,1.3,541.18,6817.39
+Zona Oeste,Apartamento,Não,Sim,Sim,49.6,4,1,1,42,18,3.15,967.71,4635.34
+Zona Oeste,Apartamento,Sim,Não,Não,41.7,2,2,2,9,11,2.59,1101.21,5966.72
+Zona Oeste,Apartamento,Não,Não,Sim,59.7,1,2,2,40,23,1.13,712.56,4199.6
+Zona Norte,Apartamento,Não,Sim,Não,51.5,3,2,3,11,4,3.69,,4072.85
+Zona Norte,Apartamento,Não,Sim,Sim,29.3,2,2,1,29,23,0.89,331.23,2307.67
+Zona Sul,Cobertura,Não,Não,Sim,120.6,1,3,1,32,15,3.28,768.96,14507.4
+Centro,Studio,Não,Sim,Sim,101.3,3,2,1,17,14,0.92,882.91,5735.66
+Zona Oeste,Apartamento,Não,Sim,Não,50.5,1,2,1,13,14,1.53,389.5,3951.33
+Zona Oeste,Apartamento,Não,Sim,Sim,76.8,3,1,1,21,5,1.76,906.11,6507.96
+Zona Oeste,Apartamento,Não,Sim,Sim,80.4,1,1,3,20,11,2.51,492.61,5994.41
+Zona Oeste,Apartamento,Sim,Sim,Sim,99.8,1,1,1,0,1,1.62,728.57,7249.58
+Zona Norte,Apartamento,Não,Sim,Sim,49.5,1,2,3,42,19,2.69,836.37,2627.98
+Zona Leste,Apartamento,Não,Sim,Não,97.3,4,1,2,14,8,1.85,179.56,5541.98
+Zona Oeste,Studio,Sim,Sim,Não,56.3,3,1,2,35,3,2.43,662.86,
+Zona Oeste,Apartamento,,Não,Sim,36.6,3,2,2,21,4,2.75,907.16,5485.81
+Zona Sul,Apartamento,Não,Sim,Não,88.1,2,1,1,31,20,2.59,409.83,6763.03
+Zona Norte,Apartamento,,Sim,Não,102.3,2,1,1,32,7,1.01,285.85,4567.63
+Centro,Apartamento,Sim,Sim,Sim,134.7,2,1,1,40,21,0.41,673.7,7021.97
+Zona Oeste,Studio,Sim,Sim,Não,40.0,2,2,0,38,9,2.5,583.36,3900.92
+Zona Leste,Apartamento,Não,Sim,Não,87.5,2,1,1,22,6,2.3,468.17,3626.32
+Zona Sul,Studio,Sim,Sim,Sim,59.8,2,2,1,42,21,0.82,549.45,5337.61
+Zona Leste,Apartamento,Não,Não,Sim,89.6,2,2,1,1,13,3.11,132.43,3700.59
+Zona Leste,Apartamento,Não,Não,Não,33.2,4,2,3,1,4,1.62,651.12,4221.69
+Zona Sul,Apartamento,Sim,Sim,Não,38.4,1,2,2,37,15,3.33,948.15,4462.69
+Centro,Apartamento,Não,Sim,Sim,50.6,4,2,0,28,14,3.82,371.33,4866.27
+Zona Leste,,Não,Sim,Sim,,1,1,1,2,4,2.42,342.9,3437.23
+Zona Norte,,Não,Não,Sim,54.0,2,1,1,-11,2,2.83,593.14,2805.13
+Zona Leste,Apartamento,Não,Não,Não,86.5,2,1,1,6,22,1.09,,4474.22
+Zona Norte,Apartamento,Não,Sim,Não,95.7,2,1,2,35,9,3.34,824.97,4723.19
+Zona Oeste,Apartamento,Não,Sim,Não,85.0,2,1,1,28,4,2.33,526.46,5503.57
+Zona Norte,,Não,Não,Sim,110.5,2,1,1,36,22,1.56,559.9,4385.78
+Zona Norte,Apartamento,Não,Sim,Não,80.4,2,2,2,35,14,0.17,849.71,4901.72
+Zona Oeste,Cobertura,Não,Sim,Não,39.6,3,2,2,22,17,1.27,322.66,8445.7
+Zona Norte,Studio,Não,Sim,Sim,104.1,3,1,0,44,24,0.34,702.94,3828.18
+Centro,Cobertura,Não,Sim,Sim,54.9,3,2,1,15,7,3.14,270.64,7770.09
+Centro,Apartamento,Não,Não,Não,92.8,2,1,1,30,20,3.83,781.23,4783.53
+Zona Leste,Apartamento,Sim,Não,Não,109.3,2,1,1,33,1,3.37,476.51,5107.72
+Zona Leste,Apartamento,Não,Sim,Não,81.4,2,2,0,0,21,5.73,600.17,3696.41
+Zona Leste,Apartamento,Sim,Sim,Não,32.6,2,1,1,17,7,1.31,460.28,3999.28
+Zona Sul,Studio,Sim,Sim,Sim,47.0,2,1,1,39,22,,724.67,4970.11
+Centro,Apartamento,,Sim,Não,103.1,2,1,1,42,7,0.23,506.33,5789.59
+Centro,,Não,Sim,Não,65.8,1,3,1,14,3,1.7,1089.49,5345.94
+Zona Sul,Apartamento,Não,Sim,Não,72.0,2,2,2,16,18,0.22,,7368.79
+Zona Norte,Apartamento,Não,Sim,Não,89.0,1,1,0,43,22,2.85,223.93,3399.05
+Zona Sul,Apartamento,Não,Sim,Não,87.4,3,2,0,9,17,1.47,597.86,7261.32
+Zona Norte,Apartamento,Não,Sim,Sim,77.0,3,2,2,19,20,1.08,733.79,4194.54
+Zona Oeste,Apartamento,Não,Sim,Não,,4,2,0,5,22,0.97,435.46,6454.57
+Zona Sul,Apartamento,Não,Sim,Sim,62.2,3,2,2,7,0,4.69,853.12,7280.21
+Zona Norte,Apartamento,Não,Sim,Sim,91.4,1,1,1,44,19,2.62,823.66,4531.32
+Zona Leste,Studio,Sim,Não,Sim,83.8,3,1,1,33,14,3.15,529.11,3374.2
+Zona Sul,Studio,Não,Sim,Sim,63.6,3,2,0,31,17,2.19,795.3,6343.99
+Zona Leste,Cobertura,Não,Sim,Não,97.1,2,2,0,41,21,1.73,52.67,7381.12
+Zona Oeste,Studio,Não,Não,Não,,2,2,0,3,11,2.02,889.4,4484.54
+Zona Oeste,Apartamento,Sim,Não,Não,48.7,4,2,0,43,0,2.37,771.63,5745.42
+Centro,Apartamento,Não,Sim,Não,,2,3,1,38,6,,278.08,4711.76
+Zona Oeste,Apartamento,Sim,Não,Sim,45.5,3,3,0,19,18,3.14,612.97,5528.11
+Zona Norte,Apartamento,Não,Sim,Não,63.2,1,2,1,23,0,3.68,43.43,3929.26
+Zona Sul,Studio,Não,Sim,Sim,100.8,1,2,1,23,23,1.71,359.14,6881.24
+Zona Norte,Apartamento,Não,Sim,Sim,49.9,2,3,1,25,6,1.22,823.91,2932.59
+Zona Oeste,Studio,Sim,Sim,Não,74.7,2,1,0,24,1,0.89,546.79,5288.97
+Zona Norte,Apartamento,Não,Sim,Sim,53.6,3,1,0,35,6,4.64,532.95,2397.98
+Zona Sul,Apartamento,Não,Sim,Sim,63.5,4,2,0,6,18,1.32,561.31,7438.97
+Zona Leste,Apartamento,Não,Sim,Não,32.2,2,2,1,9,12,2.98,532.14,2885.65
+Zona Sul,Studio,Não,Sim,Não,64.5,1,2,1,11,24,1.72,796.87,5264.37
+Centro,Apartamento,,Sim,Sim,65.2,3,2,2,0,23,1.63,395.25,5522.94
+Centro,Apartamento,Não,Sim,Não,83.5,2,1,1,24,4,0.85,654.84,4919.45
+Centro,Apartamento,Não,Sim,Não,,1,1,1,15,22,0.54,263.85,4359.49
+Zona Sul,Apartamento,Não,Não,Não,40.0,2,2,1,4,18,3.11,735.27,5050.03
+Centro,Apartamento,Sim,Não,Sim,97.1,3,1,1,18,0,0.51,469.66,6173.97
+Zona Leste,Apartamento,Não,Não,Não,75.3,3,1,1,3,0,2.69,539.75,4014.41
+Zona Sul,Apartamento,Não,Sim,Não,75.0,2,1,0,5,17,2.14,459.46,6153.36
+Zona Sul,Apartamento,Não,Não,Não,69.8,2,1,1,25,120,3.13,491.09,6007.76
+Zona Oeste,Apartamento,Sim,Sim,Não,57.1,4,2,1,38,0,1.09,298.82,6040.49
+Zona Norte,Apartamento,Não,Sim,Sim,75.4,3,1,1,38,4,3.62,632.31,4228.57
+Zona Leste,Apartamento,Sim,Sim,Sim,81.9,2,2,1,8,8,1.79,688.67,4554.18
+Zona Sul,,Sim,Sim,Não,26.3,2,1,1,44,11,5.89,217.34,4471.94
+Zona Sul,Apartamento,Sim,Sim,Sim,56.5,3,2,1,13,8,0.42,400.9,7419.55
+Centro,Apartamento,Não,Sim,Não,63.6,2,1,1,8,17,,557.5,4656.18
+Zona Sul,Cobertura,Não,Não,Sim,76.4,1,2,1,14,22,1.81,400.34,10580.72
+Zona Sul,Apartamento,Não,Sim,Não,99.8,2,2,1,36,10,2.33,,7166.96
+Zona Sul,Apartamento,Sim,Sim,Não,50.7,2,1,1,19,0,1.09,954.03,6126.41
+Centro,Apartamento,Não,Não,Sim,57.6,2,2,1,7,18,0.35,295.46,5402.83
+Centro,Apartamento,Não,Sim,Sim,57.2,1,2,2,31,21,1.21,28.05,3871.78
+Zona Norte,Studio,Não,Sim,Não,,3,1,1,20,24,1.45,400.32,2913.75
+Zona Sul,Apartamento,Não,Sim,Não,61.3,2,1,1,40,9,2.27,467.96,5843.09
+Zona Sul,Apartamento,Sim,Sim,Sim,89.3,1,3,2,18,1,3.68,427.5,7474.02
+Zona Norte,Apartamento,Não,Sim,Sim,43.7,1,2,1,28,6,2.29,617.2,2798.85
+Zona Leste,Apartamento,Sim,Sim,Não,80.7,4,1,0,30,19,2.31,292.98,4241.91
+Centro,Apartamento,Não,Sim,Não,27.5,3,1,2,5,1,2.58,,4013.31
+Zona Leste,Studio,Sim,Sim,Sim,56.0,2,2,0,3,18,0.63,381.38,4071.19
+Zona Leste,Apartamento,Sim,Sim,Não,61.8,3,2,1,42,5,0.49,386.54,4504.45
+Centro,Apartamento,Não,Sim,Sim,111.9,2,2,2,28,9,0.25,1080.21,6474.73
+Zona Oeste,Apartamento,,Sim,Sim,63.1,4,1,3,41,8,1.44,938.11,5813.47
+Zona Oeste,Cobertura,Sim,Não,Sim,15.0,2,2,0,2,7,0.81,132.62,
+Centro,Apartamento,Não,Sim,Sim,20.0,3,1,1,0,10,0.97,67.55,3223.82
+Zona Sul,,Não,Sim,Sim,70.9,1,1,1,43,8,0.05,528.56,4923.71
+Zona Oeste,Apartamento,Sim,Sim,Não,85.3,2,2,1,14,19,2.73,1027.9,6602.21
+Zona Leste,Apartamento,Não,Sim,Sim,79.4,4,3,0,20,19,2.66,716.52,4478.08
+Zona Sul,Apartamento,Sim,Sim,Sim,74.2,2,1,1,30,8,,541.78,7799.57
+Zona Sul,Apartamento,Não,Sim,Sim,99.1,2,2,1,6,7,0.85,435.98,8306.58
+Zona Sul,Apartamento,Não,Não,Não,56.5,1,2,0,16,14,1.64,819.29,4626.72
+Zona Norte,Studio,Sim,Não,Sim,92.4,3,2,1,18,1,2.49,594.5,4768.02
+Zona Leste,Apartamento,Sim,Sim,Sim,29.2,2,2,1,38,23,3.22,982.94,3214.34
+Zona Sul,Apartamento,Não,Não,Não,47.4,2,2,2,2,0,4.63,128.07,4638.83
+Zona Norte,Apartamento,Não,Sim,Não,24.8,4,1,2,29,8,3.68,655.91,3274.85
+Zona Leste,Cobertura,Não,Sim,Sim,63.1,1,3,1,34,8,2.25,409.18,5930.62
+Centro,Studio,Não,Sim,Não,68.8,2,2,3,28,12,1.57,653.57,5072.25
+Zona Sul,Apartamento,Não,Sim,Não,72.9,3,2,2,13,7,0.89,612.71,7066.61
+Zona Leste,Cobertura,Sim,Não,Não,,2,2,1,34,20,4.03,677.42,6496.67
+Zona Oeste,Apartamento,Não,Sim,Sim,46.8,2,2,0,27,4,2.25,794.4,4933.54
+Zona Norte,Apartamento,Não,Sim,Não,65.2,2,1,1,29,2,2.95,897.45,4312.85
+Zona Norte,Apartamento,Sim,Não,Sim,32.6,3,1,1,25,20,1.11,1037.93,3019.88
+Centro,Studio,Sim,Sim,Não,104.1,1,2,1,6,3,0.14,553.95,5735.64
+Zona Norte,Apartamento,Sim,Sim,Não,62.4,4,1,1,38,16,1.4,414.41,4457.84
+Zona Norte,Apartamento,Não,Sim,Sim,,3,1,1,30,15,1.55,243.54,3874.09
+Zona Sul,Apartamento,Não,Não,Não,109.7,1,2,1,4,15,2.29,,7553.23
+,Studio,Sim,Não,Sim,38.9,3,2,0,34,24,0.89,758.73,4848.48
+Zona Sul,Apartamento,Não,Sim,Não,41.9,2,1,2,13,19,2.04,212.89,
+Centro,Apartamento,Sim,Sim,Não,42.6,2,2,1,35,2,,836.17,3945.88
+Zona Sul,,Não,Sim,Sim,68.3,3,2,3,26,5,0.51,524.66,7865.82
+Zona Sul,Apartamento,Sim,Não,Sim,80.8,4,2,0,23,0,1.18,236.05,7457.3
+Zona Sul,Apartamento,Não,Sim,Não,88.5,1,2,3,39,20,3.87,337.93,6029.18
+Centro,Cobertura,Não,Sim,Sim,134.3,2,1,0,28,15,0.2,314.19,11881.45
+Zona Oeste,Apartamento,Não,Não,Sim,13.8,2,1,0,44,14,1.43,318.64,3188.96
+Zona Norte,Apartamento,Não,Sim,Sim,85.2,2,1,0,21,6,2.91,692.48,4645.97
+Zona Leste,Apartamento,Sim,Sim,Não,56.1,2,2,1,7,1,1.91,765.96,
+Zona Leste,Studio,Não,Sim,Não,55.3,1,2,2,14,9,1.89,974.79,3566.13
+Zona Norte,Apartamento,Sim,Não,Sim,54.5,3,2,1,4,24,,375.44,
+Centro,,Sim,Sim,Sim,47.3,2,2,2,3,14,5.78,635.74,4673.7
+Zona Norte,Studio,Não,Sim,Sim,112.1,1,2,1,10,5,4.67,388.24,3783.45
+Zona Norte,Studio,Sim,Sim,Sim,91.1,3,2,1,17,1,0.96,555.03,5436.95
+Zona Leste,,Sim,Sim,Sim,70.6,3,1,2,41,23,3.58,179.9,4079.23
+,Studio,Não,Sim,Não,103.8,2,1,1,29,23,2.76,269.2,4742.28
+Centro,Apartamento,Não,Sim,Sim,32.2,2,2,1,14,16,1.97,750.77,3715.87
+,Studio,Não,Não,Sim,36.7,2,1,2,5,0,0.64,179.13,5150.28
+Zona Sul,Apartamento,Sim,Sim,Sim,15.6,2,1,2,15,0,2.68,703.71,4837.41
+Zona Leste,Studio,Sim,Sim,Não,52.5,2,2,3,39,3,1.54,380.96,3593.31
+Zona Norte,Apartamento,Não,Sim,Não,74.0,3,1,2,8,19,,68.62,4497.59
+Zona Sul,Studio,Sim,Sim,Não,72.6,1,2,0,42,15,0.85,84.64,5956.12
+Zona Oeste,Apartamento,Sim,Não,Sim,73.7,1,1,2,33,7,3.5,915.87,4913.41
+Zona Leste,Apartamento,Não,Sim,Sim,,1,1,1,26,0,0.85,73.65,2296.85
+Zona Sul,Apartamento,Não,Sim,Sim,90.1,1,1,3,12,18,,533.91,6539.57
+Centro,Cobertura,Não,Sim,Sim,76.0,1,2,1,35,10,3.17,638.49,7489.35
+Zona Sul,Cobertura,Sim,Sim,Não,88.3,4,1,1,26,16,1.78,221.7,14283.48
+Zona Sul,Apartamento,Sim,Sim,Não,22.7,2,2,1,8,24,1.82,411.62,4806.57
+Zona Sul,Apartamento,Não,Sim,Não,77.8,1,2,1,4,9,3.55,669.71,5937.03
+Zona Sul,Apartamento,Sim,Não,Não,40.3,2,3,0,21,11,3.97,623.33,4343.95
+Zona Sul,Apartamento,Não,Não,Sim,60.1,4,1,2,30,8,1.19,434.86,6429.21
+Zona Sul,Studio,Não,Sim,Não,,2,2,2,2,6,1.81,,7524.92
+Zona Oeste,Apartamento,Não,Não,Sim,72.3,2,2,0,29,11,0.12,524.44,4550.48
+Centro,Apartamento,Sim,Sim,Sim,48.7,3,3,2,20,14,1.42,307.4,5710.76
+Zona Norte,Studio,Sim,Sim,Não,70.2,2,3,1,34,7,1.99,850.12,4528.69
+Zona Norte,Apartamento,Não,Sim,Sim,31.7,2,1,1,5,16,1.47,601.86,4020.66
+Zona Oeste,Apartamento,,Sim,Sim,98.8,2,2,1,27,4,0.46,89.49,6768.34
+Centro,Apartamento,Não,Sim,Sim,64.9,2,1,2,31,13,0.39,680.42,5123.17
+Zona Sul,Apartamento,Sim,Sim,Não,98.0,2,1,1,41,1,3.09,,7240.2
+Zona Oeste,Apartamento,Sim,Sim,Não,56.8,3,1,1,36,15,4.3,477.64,4930.91
+Zona Oeste,Apartamento,Não,Sim,Sim,56.9,2,2,1,24,16,1.09,552.05,5401.28
+Zona Oeste,Apartamento,Não,Sim,Não,50.9,2,2,0,31,2,1.51,351.76,4851.49
+Zona Sul,Studio,Não,Não,Sim,91.9,1,1,1,34,22,3.1,1000.76,5500.08
+Zona Sul,Apartamento,,Sim,Sim,52.3,1,2,0,21,0,1.95,176.67,5676.11
+,Studio,Não,Sim,Não,86.1,2,1,0,23,17,0.33,564.17,4728.02
+Zona Oeste,Apartamento,Não,Sim,Não,60.4,4,2,1,38,17,1.28,645.34,5892.01
+Zona Norte,Apartamento,,Sim,Não,20.6,2,1,2,29,3,2.45,560.3,2572.58
+Zona Norte,,Não,Não,Sim,55.7,3,1,1,31,14,1.54,502.25,3297.62
+Zona Sul,Apartamento,Sim,Sim,Não,40.5,2,1,0,30,18,1.93,455.75,4921.6
+Zona Leste,Apartamento,Não,Sim,Não,70.8,1,1,1,22,18,1.97,349.21,3688.43
+Zona Sul,Cobertura,Sim,Não,Não,40.2,1,2,2,39,9,1.21,344.77,8432.98
+Zona Sul,Apartamento,Não,Sim,Sim,93.1,2,1,1,32,4,3.22,839.64,6915.76
+Zona Norte,Apartamento,Não,Sim,Não,67.7,1,2,2,24,18,,439.56,3650.46
+Zona Norte,Studio,Não,Sim,Não,65.6,1,1,1,35,10,0.49,1083.05,3402.04
+Zona Sul,Apartamento,Não,Não,Sim,86.4,3,2,2,23,6,5.34,717.24,6857.57
+Centro,Apartamento,Sim,Sim,Não,94.1,1,2,0,30,4,1.88,116.91,4613.42
+Zona Leste,Apartamento,Não,Sim,Sim,,2,1,1,38,19,1.9,770.81,3632.69
+Zona Sul,Apartamento,Não,Sim,Não,50.7,2,2,1,12,11,3.88,536.71,6230.58
+Zona Norte,Apartamento,Sim,Sim,Não,25.7,2,1,1,9,18,3.88,202.51,2753.41
+Zona Sul,Apartamento,Sim,Sim,Não,52.8,2,2,2,22,14,2.69,,6086.2
+Zona Norte,Studio,Não,Sim,Não,54.6,2,1,2,17,11,2.95,441.02,3860.4
+Zona Norte,Apartamento,Sim,Sim,Não,72.7,2,2,0,31,3,5.24,419.77,3789.5
+Centro,Apartamento,Não,Não,Sim,61.4,3,2,0,32,11,0.56,643.8,4888.74
+Zona Sul,Studio,Não,Não,Sim,87.2,3,3,1,35,17,2.2,835.71,6554.26
+Centro,Apartamento,Não,Sim,Não,54.7,1,2,1,27,16,4.95,578.35,3445.89
+Centro,Apartamento,Sim,Não,Sim,68.6,1,2,1,15,18,5.27,560.45,4685.09
+Zona Oeste,Apartamento,Não,Sim,Sim,99.6,3,1,2,15,15,1.45,375.78,6983.07
+Zona Sul,Cobertura,Não,Sim,Não,78.5,2,3,3,17,10,5.02,831.44,13127.02
+Zona Oeste,Apartamento,Sim,Sim,Sim,68.5,2,2,1,7,1,3.2,580.76,5247.44
+Zona Sul,Apartamento,Não,Não,Sim,55.0,2,1,2,41,15,4.24,493.64,4956.2
+Zona Leste,Apartamento,Não,Não,Não,54.2,1,2,1,15,0,3.15,,2356.32
+Zona Leste,Apartamento,Não,Sim,Sim,48.7,2,1,0,10,16,2.46,806.71,3489.39
+Zona Norte,Studio,Sim,Não,Não,56.5,2,2,1,5,17,5.31,484.42,3282.78
+Zona Norte,Cobertura,Não,Sim,Não,88.9,2,2,1,0,24,1.21,807.35,8679.73
+Zona Norte,Apartamento,Sim,Não,Não,64.5,2,1,1,11,12,4.85,,3803.73
+Zona Sul,Apartamento,Sim,Não,Sim,36.3,3,2,0,37,4,5.09,730.58,4819.51
+Zona Oeste,Apartamento,Não,Sim,Não,114.2,2,1,1,27,24,4.04,601.77,6978.77
+Zona Oeste,Studio,Não,Não,Não,78.0,1,1,1,44,23,1.89,312.31,4424.89
+Zona Oeste,Apartamento,Sim,Sim,Não,34.8,2,1,3,16,5,2.37,528.26,4325.11
+Centro,Apartamento,Sim,Sim,Sim,59.0,3,2,1,0,0,0.09,2.35,
+Zona Leste,Apartamento,Sim,Sim,Não,72.8,3,1,2,31,9,1.32,363.99,
+Zona Oeste,Apartamento,Sim,Sim,Não,112.6,2,1,2,7,4,2.93,155.55,
+Zona Sul,Apartamento,Sim,Não,Não,42.3,1,2,1,39,0,0.14,1049.38,4634.7
+Centro,Apartamento,Sim,Sim,Não,94.4,3,1,1,42,22,1.55,158.49,5442.12
+Zona Leste,Apartamento,Não,Sim,Não,105.0,3,1,2,23,10,4.92,1196.45,4666.97
+Zona Norte,Studio,Não,Não,Não,54.3,1,1,1,9,23,1.77,678.57,
+Zona Oeste,Apartamento,Não,Não,Sim,63.1,2,1,2,38,23,3.55,420.28,3806.21
+Centro,Apartamento,Não,Sim,Não,44.1,2,2,0,38,6,2.85,751.59,2822.42
+Zona Leste,Apartamento,Sim,Não,Sim,64.9,3,1,0,9,17,1.54,388.87,4303.03
+Zona Sul,Apartamento,Não,Sim,Sim,69.1,2,3,2,35,20,1.77,197.61,6978.21
+,Apartamento,Não,Não,Sim,86.5,2,2,2,24,19,2.25,569.77,7145.54
+,Apartamento,Não,Sim,Não,97.3,3,1,3,9,20,1.08,725.02,8884.02
+Zona Oeste,Apartamento,Não,Sim,Sim,,3,1,1,18,9,3.42,869.6,5114.97
+Zona Leste,Apartamento,,Sim,Não,20.8,3,1,2,44,24,1.82,674.43,2260.6
+Zona Norte,Apartamento,Não,Sim,Não,69.5,4,2,2,14,14,3.47,417.66,5085.72
+Zona Sul,Apartamento,Sim,Sim,Sim,77.3,1,1,2,15,3,2.58,896.57,6873.65
+Zona Oeste,Studio,Não,Sim,Sim,76.2,2,1,1,1,15,1.76,840.74,5642.27
+Zona Sul,Apartamento,Não,Sim,Sim,,2,2,1,28,14,2.3,617.25,6324.02
+Zona Oeste,Studio,,Não,Não,73.1,3,1,2,3,14,2.3,852.69,5586.88
+Zona Norte,Apartamento,Não,Sim,Não,107.9,2,1,1,28,11,4.21,1096.2,4693.91
+Zona Sul,Apartamento,Sim,Sim,Não,79.5,4,2,1,30,7,2.09,414.1,8195.29
+Zona Norte,Apartamento,Não,Sim,Sim,60.7,2,2,1,16,7,2.43,325.08,3612.37
+Zona Sul,Apartamento,Não,Sim,Não,57.5,3,1,1,9,17,0.11,406.83,6823.83
+Zona Leste,Studio,Não,Não,Não,65.8,1,2,1,26,5,1.93,212.59,2666.4
+Zona Norte,Apartamento,Não,Não,Não,110.9,1,1,0,40,4,4.18,697.8,3403.02
+Zona Sul,Studio,Sim,Sim,Não,65.4,3,2,2,14,1,2.64,147.52,6853.05
+Zona Oeste,Apartamento,Não,Sim,Sim,69.5,1,2,1,43,11,0.38,866.25,5163.58
+Zona Sul,Apartamento,Não,Não,Sim,57.9,3,2,1,30,3,0.54,381.95,6684.59
+Zona Norte,Apartamento,Não,Sim,Sim,97.5,1,3,0,20,22,0.89,889.68,3901.99
+Zona Oeste,Apartamento,Não,Não,Sim,119.0,3,3,0,40,12,3.5,89.26,6572.87
+Zona Leste,Apartamento,Não,Sim,Sim,81.3,2,3,0,44,16,3.31,453.7,3340.68
+Centro,Apartamento,Não,Não,Sim,72.1,2,2,1,25,15,3.18,226.75,3980.66
+Zona Oeste,Apartamento,,Sim,Sim,70.9,3,1,0,37,8,1.88,888.34,6006.57
+Zona Leste,Apartamento,Não,Sim,Não,10.4,2,2,2,35,0,2.22,969.76,1875.5
+Zona Sul,Apartamento,,Não,Não,88.6,1,2,0,16,14,0.56,36.02,6263.87
+Centro,,Não,Sim,Não,73.4,1,2,0,2,11,1.41,766.47,8398.26
+Zona Leste,Cobertura,Não,Sim,Não,80.7,2,1,0,13,4,4.0,817.17,5926.64
+Zona Leste,Apartamento,Não,Sim,Sim,52.2,2,3,0,12,22,2.61,631.42,3465.47
+Zona Norte,Apartamento,Sim,Sim,Não,60.4,3,2,2,40,23,1.25,697.04,4265.14
+Zona Oeste,Apartamento,Não,Sim,Sim,59.7,2,3,2,26,17,1.72,679.01,6468.5
+Zona Leste,Studio,Sim,Sim,Não,95.5,2,2,1,0,19,1.66,767.38,5153.93
+Zona Sul,Apartamento,Não,Sim,Sim,60.5,2,1,0,16,1,2.42,276.88,5334.13
+Zona Sul,,Sim,Sim,Não,122.1,1,1,1,33,3,0.14,850.12,8399.27
+Zona Sul,Studio,Sim,Não,Sim,80.8,2,1,1,13,14,1.0,602.34,6630.02
+Zona Leste,Apartamento,,Sim,Sim,38.1,4,1,3,16,5,3.55,587.33,3893.99
+Centro,Apartamento,Sim,Sim,Não,66.8,3,2,0,2,21,1.89,691.66,5755.91
+Zona Norte,Apartamento,Não,Sim,Sim,53.7,2,2,1,33,11,0.73,232.31,3037.0
+Zona Leste,Apartamento,Não,Sim,Não,15.1,2,2,1,39,17,0.79,161.64,2167.41
+Zona Oeste,Apartamento,Sim,Sim,Não,110.0,3,2,1,24,19,3.08,519.74,7498.08
+Zona Sul,Apartamento,Não,Sim,Não,87.6,2,1,1,1,3,1.22,935.88,7730.94
+Zona Oeste,Apartamento,Não,Sim,Não,83.3,1,1,0,33,0,2.77,253.65,4615.05
+Centro,Apartamento,Não,Sim,Não,74.1,1,1,2,25,14,1.06,593.79,4877.3
+Zona Oeste,Studio,Sim,Sim,Sim,35.4,2,1,0,30,17,0.31,370.83,4383.32
+Centro,Apartamento,Sim,Sim,Não,57.9,4,2,1,8,13,2.37,337.26,6064.23
+Zona Sul,Apartamento,Sim,Sim,Não,91.0,3,1,0,29,2,1.85,675.19,7915.49
+Zona Leste,Apartamento,,Sim,Não,43.7,1,1,3,19,14,3.03,739.84,2853.41
+Centro,Cobertura,Sim,Sim,Sim,6.7,1,1,0,20,4,3.33,353.11,3927.91
+Zona Sul,,Não,Sim,Não,64.3,3,2,2,28,23,1.46,896.81,7532.51
+,Apartamento,Não,Não,Não,66.5,3,2,2,24,21,2.52,655.63,3652.54
+Zona Leste,Studio,Não,Sim,Não,73.4,2,2,3,37,2,1.42,489.58,3636.26
+Zona Leste,Studio,Não,Sim,Sim,88.2,2,1,1,43,21,2.95,636.88,3361.74
+Zona Leste,Apartamento,,Sim,Sim,85.9,1,3,1,24,6,2.35,1059.09,4386.41
+Zona Norte,Studio,Sim,Sim,Sim,76.5,3,1,1,8,5,,738.38,3862.16
+Zona Sul,Apartamento,Sim,Sim,Não,99.9,3,2,0,38,21,0.94,375.33,
+Zona Sul,Apartamento,Sim,Sim,Não,32.0,2,2,1,43,0,2.4,545.32,4476.59
+Zona Sul,Apartamento,Não,Não,Não,82.6,3,2,0,25,18,3.74,582.82,
+Zona Oeste,Apartamento,Não,Sim,Sim,85.7,2,3,3,36,6,3.35,716.34,5882.99
+Zona Norte,Apartamento,Não,Não,Sim,39.0,1,1,0,15,3,0.59,609.89,2900.81
+Zona Norte,Apartamento,Não,Sim,Não,32.4,2,2,1,36,11,0.74,1023.83,3352.05
+Zona Norte,Apartamento,Não,Sim,Não,51.4,1,1,1,11,19,0.96,493.33,2788.36
+,Apartamento,Não,Sim,Não,53.5,2,2,1,23,22,1.11,117.52,4460.6
+Zona Sul,Studio,Sim,Sim,Sim,88.8,2,1,1,25,24,0.72,603.63,7377.91
+Zona Norte,Apartamento,Não,Sim,Não,54.6,2,1,0,19,17,,439.72,3525.58
+Zona Norte,Apartamento,Não,Sim,Sim,48.6,2,2,1,8,8,1.32,173.99,3522.47
+Zona Leste,Apartamento,Sim,Sim,Não,,2,2,1,22,18,2.69,374.12,4149.33
+Centro,Studio,Não,Não,Sim,98.0,1,1,2,38,21,1.53,460.4,3932.87
+Zona Oeste,Apartamento,Não,Não,Não,70.3,2,2,2,28,3,1.97,834.95,5483.79
+Zona Oeste,Cobertura,Não,Sim,Sim,65.5,2,2,3,30,0,0.97,179.19,9264.31
+Zona Norte,Apartamento,Não,Sim,Não,67.2,2,1,0,18,8,1.96,637.45,3441.47
+Zona Leste,Apartamento,Sim,Sim,Não,102.3,3,2,1,19,14,0.69,1105.12,5621.17
+Zona Oeste,Apartamento,Não,Sim,Não,51.3,3,2,0,22,21,1.97,506.28,4266.99
+Zona Leste,Apartamento,Não,Sim,Sim,102.9,3,2,0,42,7,4.19,498.94,4431.01
+Zona Sul,Apartamento,Não,Sim,Sim,75.3,2,1,0,26,14,,729.94,6254.54
+Zona Norte,Studio,Sim,Sim,Sim,66.0,1,1,1,29,14,2.44,680.55,3792.51
+Zona Leste,Apartamento,Não,Sim,Não,132.5,3,2,0,20,17,0.02,904.39,
+Zona Norte,,Não,Não,Sim,43.6,2,3,1,43,6,2.85,,2996.51
+Zona Leste,Studio,Não,Sim,Não,61.2,2,2,2,34,21,3.0,725.55,3142.32
+Zona Oeste,Apartamento,Não,Não,Não,39.2,1,1,1,6,17,2.4,729.53,2933.43
+Zona Oeste,Studio,Não,Sim,Não,93.8,3,2,1,21,15,2.32,466.11,6107.18
+Zona Norte,Apartamento,Não,Sim,Sim,112.2,1,2,1,9,1,1.79,521.5,5065.32
+Centro,,Não,Sim,Não,111.7,3,1,1,22,3,2.97,,5518.61
+Zona Oeste,Apartamento,Sim,Sim,Sim,100.6,3,3,0,14,19,4.1,240.58,6936.51
+Zona Oeste,Apartamento,Não,Sim,Não,65.1,2,3,1,29,15,2.5,452.83,5273.12
+Centro,Studio,Sim,Sim,Não,60.9,3,1,1,33,2,0.54,924.04,5057.84
+Zona Oeste,Apartamento,Não,Sim,Sim,28.2,2,3,2,12,23,0.66,809.43,5276.96
+Zona Oeste,Apartamento,Sim,Sim,Sim,120.9,3,1,2,3,22,,405.02,7839.76
+Zona Norte,Apartamento,Sim,Sim,Não,81.7,2,2,1,17,1,0.55,546.06,4986.02
+Zona Norte,Apartamento,Sim,Sim,Não,57.7,3,1,1,22,2,2.3,792.85,4477.26
+Zona Sul,Studio,Sim,Sim,Sim,,2,1,0,32,24,,660.85,6898.97
+Centro,Apartamento,,Sim,Não,45.7,4,2,2,33,4,0.39,,4997.6
+Zona Sul,Apartamento,Não,Sim,Sim,80.2,2,2,1,33,1,3.25,683.53,6795.8
+Zona Oeste,Cobertura,Não,Sim,Sim,65.7,2,1,0,35,18,3.06,603.85,7721.43
+Centro,Apartamento,Sim,Não,Não,86.0,3,2,0,34,23,0.03,508.53,5229.63
+Zona Sul,Cobertura,Sim,Sim,Não,,3,1,0,16,19,2.72,251.22,11817.45
+Zona Sul,Apartamento,Sim,Não,Não,33.7,2,1,2,27,1,2.5,723.06,4491.22
+Zona Norte,Apartamento,Sim,Sim,Sim,71.9,1,1,0,13,1,3.26,494.56,3653.3
+Zona Oeste,Apartamento,Não,Sim,Não,96.2,2,2,1,33,21,2.25,138.03,6034.1
+Zona Sul,Apartamento,Sim,Sim,Sim,69.3,4,1,1,10,23,4.14,413.59,7483.54
+Zona Sul,Cobertura,Não,Sim,Sim,89.4,3,1,1,12,22,1.81,763.07,13961.49
+Zona Leste,Apartamento,Sim,Sim,Não,43.9,3,1,2,32,19,1.59,70.96,2425.5
+Zona Norte,Apartamento,Sim,Não,Sim,69.3,1,1,2,1,17,0.54,292.62,3743.72
+Zona Sul,Apartamento,,Sim,Não,54.4,2,2,1,33,24,0.6,584.28,6002.88
+Zona Norte,Apartamento,Não,Sim,Não,88.7,2,3,0,28,19,0.46,901.43,4643.9
+,Apartamento,Sim,Sim,Sim,70.8,3,1,1,36,24,2.33,799.99,5473.91
+Zona Sul,Cobertura,Sim,Não,Sim,87.3,1,3,1,3,20,1.6,925.41,14132.12
+Zona Norte,Apartamento,Não,Sim,Sim,97.2,3,2,1,11,13,2.5,601.95,5220.52
+Zona Norte,Apartamento,Sim,Sim,Sim,87.3,2,2,1,25,14,0.19,497.7,4693.3
+Zona Oeste,Apartamento,Sim,Sim,Não,76.8,1,2,0,27,11,0.72,760.83,5448.51
+Zona Sul,,Não,Não,Não,45.0,2,2,1,2,10,0.69,325.16,6227.12
+Zona Norte,,Não,Não,Sim,69.9,2,1,0,19,10,5.25,305.65,2768.42
+Zona Leste,,Não,Sim,Sim,56.7,2,2,2,9,6,1.75,261.23,3589.94
+,Studio,Não,Não,Não,61.4,1,2,1,17,11,1.9,822.22,3813.37
+,Apartamento,Não,Não,Não,60.6,1,2,1,26,15,1.88,341.35,3304.79
+Zona Sul,Apartamento,Não,Sim,Sim,45.5,3,2,0,30,4,4.33,800.15,4861.23
+Zona Oeste,Apartamento,Não,Sim,Sim,21.1,1,1,1,26,1,0.42,587.11,
+Centro,Studio,Não,Sim,Não,53.3,2,2,1,41,21,1.91,825.43,3104.66
+Zona Norte,Apartamento,Sim,Não,Sim,74.8,2,2,0,0,15,0.43,273.65,4250.62
+Centro,Apartamento,Não,Sim,Sim,36.3,2,1,2,5,22,1.57,,4135.76
+Zona Oeste,Apartamento,Não,Não,Não,70.4,3,1,1,10,14,0.9,663.5,5546.3
+Zona Norte,Apartamento,Não,Sim,Não,117.5,2,2,1,33,10,2.62,442.26,5609.2
+Zona Norte,Apartamento,Não,Não,Não,95.6,3,2,1,38,5,0.8,73.34,4441.0
+Centro,Apartamento,Não,Sim,Não,111.1,2,2,1,19,12,,206.94,5802.86
+Zona Leste,Apartamento,Sim,Sim,Não,79.8,1,2,1,20,18,2.16,271.69,3882.58
+Zona Sul,Apartamento,Não,Não,Sim,99.2,1,1,1,20,9,1.79,290.21,5892.53
+Zona Oeste,Cobertura,Sim,Não,Sim,51.9,2,1,1,17,23,3.9,720.45,7787.22
+Zona Sul,Studio,Sim,Não,Sim,53.9,2,1,1,20,18,1.11,634.26,5439.47
+Zona Sul,Apartamento,Sim,Sim,Sim,1.5,3,1,0,18,4,2.57,590.56,3879.96
+Centro,Apartamento,Não,Sim,Não,99.7,2,1,0,3,24,0.7,1052.17,5998.46
+Zona Norte,Apartamento,,Sim,Não,108.5,2,1,0,12,20,2.15,843.81,4926.55
+Zona Norte,Apartamento,Não,Sim,Não,56.2,1,2,1,17,6,1.61,750.45,2949.54
+Centro,Apartamento,Não,Sim,Não,-63.7,2,2,1,28,10,0.23,176.18,4546.51
+Zona Leste,Apartamento,Sim,Sim,Sim,51.2,2,1,2,24,13,,564.88,3704.76
+Zona Norte,Apartamento,Não,Sim,Sim,79.6,2,1,0,12,22,0.89,,4017.59
+Zona Norte,Studio,Não,Não,Não,98.1,2,1,3,26,20,4.6,446.19,3748.38
+Zona Norte,Apartamento,Sim,Sim,Não,,1,2,1,18,15,1.65,976.59,3523.06
+Zona Norte,Apartamento,Não,Sim,Não,80.2,3,1,2,0,17,2.37,562.8,4982.49
+Zona Norte,Studio,Sim,Sim,Não,,3,1,1,37,20,2.06,242.91,4052.7
+Zona Sul,Apartamento,Não,Sim,Não,72.8,2,3,1,18,22,1.58,300.66,7298.03
+Zona Sul,Apartamento,Não,Sim,Não,81.5,2,2,0,0,22,1.21,1120.59,7748.24
+Zona Oeste,Apartamento,Não,Não,Sim,,4,1,0,39,3,2.1,444.97,5129.27
+,,Não,Não,Não,67.4,2,1,0,16,0,3.59,30.37,4857.99
+Zona Sul,Studio,Sim,Não,Não,64.7,2,1,1,20,21,0.51,400.16,5996.69
+Zona Sul,Apartamento,Sim,Não,Sim,94.3,1,2,1,21,14,0.79,93.35,6731.49
+Zona Leste,Apartamento,Não,Sim,Não,,2,2,2,14,13,0.42,779.33,3721.44
+Zona Norte,Studio,Não,Sim,Sim,75.5,1,1,1,38,18,0.35,61.29,2989.02
+Centro,Studio,Não,Sim,Não,38.2,4,2,2,38,4,,199.45,4159.31
+Zona Sul,,Não,Sim,Sim,60.5,3,1,0,31,3,2.88,551.0,5474.88
+Zona Leste,Apartamento,Não,Sim,Não,92.5,3,1,0,3,12,3.6,827.35,3833.71
+Zona Leste,Apartamento,Não,Sim,Sim,70.9,3,1,1,43,17,2.91,532.64,3832.63
+Centro,Cobertura,Sim,Sim,Não,86.5,2,2,1,44,11,3.03,235.59,9230.26
+Zona Sul,,Não,Sim,Sim,114.2,2,1,1,31,22,0.12,595.64,
+Zona Sul,Apartamento,Não,Sim,Sim,96.0,3,1,2,3,20,4.23,433.05,8004.27
+Zona Leste,Apartamento,Sim,Sim,Não,72.3,4,1,0,0,14,1.69,833.18,4791.15
+Centro,,Não,Sim,Não,57.2,2,1,1,32,22,3.55,763.7,3693.74
+Centro,Studio,Não,Sim,Sim,6.2,4,2,2,6,8,0.06,415.71,4117.7
+Zona Leste,Apartamento,Não,Sim,Sim,65.8,2,1,0,8,3,1.64,,3771.84
+Zona Sul,Apartamento,Sim,Não,Não,61.8,2,1,2,0,4,3.41,617.81,6220.48
+Zona Leste,Apartamento,Não,Sim,Não,79.8,2,2,3,15,8,2.04,891.7,5468.84
+Zona Sul,Apartamento,Não,Sim,Não,66.2,2,2,0,17,12,0.87,734.3,5831.41
+Centro,Studio,Não,Não,Sim,62.0,1,2,1,5,9,3.96,686.75,3356.99
+Zona Sul,Apartamento,Sim,Sim,Não,25.5,2,2,1,1,15,0.24,881.99,5636.84
+,Studio,Sim,Sim,Sim,46.5,2,1,2,8,12,,553.85,3577.02
+Zona Oeste,Cobertura,Não,Sim,Sim,81.9,2,2,1,3,3,2.96,356.72,9604.36
+Zona Oeste,Apartamento,Não,Sim,Não,112.9,2,2,1,44,20,5.14,600.21,6594.06
+Zona Sul,Apartamento,Não,Não,Não,67.6,4,1,2,22,12,1.31,461.15,7516.62
+Zona Leste,Apartamento,Não,Não,Não,,2,3,0,42,20,1.59,701.05,3658.36
+Zona Sul,Studio,Sim,Sim,Sim,93.8,2,1,2,44,7,1.33,565.49,6758.66
+Zona Sul,Apartamento,Não,Sim,Sim,49.7,1,3,1,42,12,2.36,650.73,5313.16
+Zona Oeste,Apartamento,Sim,Sim,Sim,79.2,1,2,1,7,14,,248.97,5797.47
+,Studio,Não,Sim,Não,51.5,3,2,2,38,19,3.64,677.07,4356.1
+Centro,Apartamento,Não,Sim,Sim,91.6,2,3,1,24,19,,228.69,5302.53
+Zona Sul,Studio,Não,Sim,Sim,73.8,3,2,0,15,12,1.25,790.44,6493.01
+Centro,Apartamento,Não,Sim,Sim,77.5,1,1,1,34,22,3.22,,4581.79
+Zona Sul,Apartamento,Não,Sim,Não,50.4,2,1,1,16,4,,636.99,5677.16
+Zona Norte,Apartamento,Sim,Sim,Sim,87.7,2,1,0,17,21,3.12,627.52,4355.7
+Zona Norte,Studio,Sim,Sim,Não,122.1,2,1,3,26,21,3.2,494.09,5271.37
+Zona Oeste,,Não,Sim,Sim,44.8,1,2,0,14,5,4.45,399.19,3575.9
+Zona Oeste,Studio,Não,Não,Não,61.5,1,1,1,16,4,1.47,546.26,4012.71
+Zona Sul,Studio,Sim,Sim,Sim,75.8,2,1,1,42,12,1.18,1045.67,6785.19
+Zona Sul,Apartamento,Não,Sim,Não,89.7,1,2,0,4,4,2.67,607.33,6564.2
+,Cobertura,Não,Não,Não,56.0,4,2,2,15,24,3.77,213.56,11457.15
+Zona Norte,Apartamento,Não,Sim,Sim,-0.8,2,1,2,14,12,2.09,122.91,2149.87
+Zona Sul,Apartamento,Não,Sim,Não,104.0,1,1,1,41,23,3.87,190.48,5880.02
+Zona Leste,Apartamento,Não,Sim,Não,89.0,1,1,0,33,19,3.04,455.6,2920.72
+Zona Norte,,Sim,Sim,Não,26.4,2,2,0,18,22,1.7,866.45,3448.33
+Zona Norte,Apartamento,Sim,Sim,Não,54.8,1,1,1,-8,7,2.85,294.13,3347.91
+Zona Norte,Apartamento,Não,Sim,Sim,,3,2,1,9,8,1.35,905.44,4838.42
+Zona Sul,Apartamento,Não,Sim,Sim,106.2,4,1,1,4,20,2.36,594.86,9304.08
+Zona Oeste,Apartamento,Sim,Não,Sim,93.5,2,1,3,25,18,0.39,670.86,6649.29
+Zona Leste,Apartamento,Não,Sim,Sim,65.6,2,3,1,21,19,1.9,664.01,4103.03
+Centro,Studio,Não,Sim,Sim,72.1,1,1,2,43,14,3.5,697.67,4035.68
+Zona Oeste,Studio,Não,Não,Sim,66.7,2,1,1,22,21,3.15,,4087.94
+Zona Norte,Apartamento,,Sim,Sim,98.2,2,1,1,12,9,2.93,33.6,3900.13
+Zona Oeste,Cobertura,Não,Não,Não,48.1,2,2,2,8,10,2.43,,7635.68
+Zona Leste,Apartamento,Não,Sim,Sim,49.9,2,2,1,19,4,2.24,328.03,2910.87
+Zona Norte,Cobertura,Não,Não,Sim,95.3,3,1,2,27,8,0.1,627.64,8625.44
+Centro,Apartamento,,Sim,Não,68.9,2,1,1,43,10,1.69,604.81,4769.02
+Zona Sul,Apartamento,,Não,Sim,104.5,1,1,0,36,18,2.27,481.91,6239.03
+Zona Norte,Apartamento,Não,Não,Sim,53.2,3,2,2,23,1,0.31,988.88,5083.88
+Zona Leste,Studio,Sim,Sim,Sim,68.6,2,2,1,43,5,0.63,389.82,3092.53
+Zona Sul,Apartamento,Não,Sim,Não,46.9,3,2,2,32,22,3.69,6.43,5481.62
+Centro,Apartamento,Não,Sim,Não,70.2,1,2,2,19,20,2.08,579.86,4455.87
+Zona Oeste,,Não,Sim,Sim,33.0,3,1,0,29,0,2.31,847.3,4129.63
+Zona Oeste,Apartamento,Sim,Sim,Não,57.8,3,1,1,43,2,,621.79,5872.19
+Zona Norte,,Sim,Sim,Não,34.1,1,1,1,8,2,0.53,460.84,3987.78
+Zona Sul,Apartamento,Não,Sim,Não,87.3,3,1,1,44,13,1.39,610.11,7146.4
+Zona Sul,Studio,Não,Sim,Não,87.9,2,1,2,16,19,4.26,1009.73,6733.65
+Centro,Apartamento,Não,Sim,Não,26.7,4,2,1,35,21,1.27,331.22,4132.71
+Zona Oeste,Apartamento,Não,Sim,Sim,103.3,1,2,1,13,4,1.6,557.72,5901.74
+Centro,Apartamento,,Sim,Sim,132.4,2,3,1,18,16,1.0,,7212.74
+Zona Norte,Studio,Não,Sim,Não,71.2,2,1,0,6,14,0.89,613.47,3356.7
+Zona Sul,Studio,Não,Sim,Não,54.0,4,2,2,2,5,3.66,488.03,6374.9
+Zona Norte,Apartamento,Não,Sim,Não,140.6,2,2,1,32,13,1.72,443.42,5263.08
+Zona Leste,,Não,Sim,Não,37.0,4,2,2,43,120,1.31,478.7,3592.06
+Zona Oeste,Apartamento,Sim,Sim,Não,70.5,3,1,1,31,24,2.34,683.01,6028.52
+,Apartamento,Não,Sim,Sim,74.5,2,1,0,10,16,4.55,668.44,6104.52
+Centro,Studio,Não,Não,Não,103.6,3,1,1,41,7,0.3,1073.68,5398.72
+Centro,Apartamento,Sim,Sim,Não,79.0,4,1,0,1,7,0.04,165.8,6873.08
+Zona Oeste,Apartamento,Sim,Sim,Não,57.5,2,2,3,25,18,0.71,,7123.75
+Zona Oeste,Apartamento,Sim,Sim,Não,46.2,2,1,0,3,8,3.05,498.88,4444.0
+Zona Norte,Studio,Sim,Não,Não,61.5,2,1,2,16,10,2.19,527.35,3906.38
+Zona Leste,Apartamento,Sim,Não,Sim,44.8,2,2,1,16,12,0.16,764.68,4463.19
+Zona Leste,Apartamento,Não,Sim,Não,71.2,1,2,1,27,12,2.15,763.1,3863.99
+Zona Sul,Apartamento,Não,Sim,Sim,55.9,2,2,0,29,23,4.33,839.15,5461.87
+,Studio,Não,Não,Não,32.6,2,2,1,39,18,2.4,893.69,2537.82
+Zona Norte,Apartamento,Sim,Sim,Não,101.4,2,1,1,22,20,2.25,540.04,4725.61
+Zona Sul,Apartamento,Sim,Sim,Sim,57.6,1,1,1,23,18,2.34,896.91,5477.2
+Zona Norte,Apartamento,Não,Sim,Não,38.3,3,1,2,28,4,2.62,392.71,3779.47
+,Apartamento,Não,Sim,Sim,65.8,3,2,1,3,15,0.1,473.68,5225.92
+Zona Sul,Apartamento,Não,Não,Sim,71.7,1,3,1,37,8,1.65,504.5,5757.2
+Zona Leste,Apartamento,Não,Não,Sim,26.3,3,1,1,28,19,1.73,418.34,2760.02
+Centro,Apartamento,Não,Não,Não,78.3,3,2,0,18,21,1.27,,4769.73
+Zona Leste,Apartamento,Sim,Sim,Não,43.8,4,1,2,26,2,3.03,774.11,4150.26
+,Apartamento,,Não,Não,112.8,1,2,1,28,18,1.05,712.84,7651.06
+,Studio,Sim,Sim,Sim,83.1,2,1,0,35,4,1.46,396.7,6375.01
+Zona Sul,Apartamento,Não,Sim,Não,60.0,3,1,1,34,7,0.11,376.12,6530.76
+Zona Sul,Cobertura,,Não,Não,-51.4,4,2,1,5,13,2.57,336.16,12009.74
+Zona Leste,Apartamento,Sim,Sim,Sim,67.4,3,2,1,22,23,3.41,572.2,4347.28
+Zona Sul,Apartamento,Sim,Sim,Sim,85.3,3,2,1,38,2,1.46,154.79,6971.39
+Zona Norte,Apartamento,Sim,Sim,Sim,69.4,1,1,0,43,23,3.21,327.35,3305.62
+Zona Norte,Apartamento,Não,Não,Não,64.6,2,1,1,7,12,,435.29,3472.89
+Zona Leste,Apartamento,Sim,Sim,Não,71.5,2,1,2,1,10,1.79,813.84,4815.03
+Zona Oeste,Apartamento,Não,Sim,Não,54.9,1,2,0,12,7,1.92,516.96,4186.31
+Zona Leste,Apartamento,Sim,Sim,Sim,61.4,3,3,2,39,18,1.74,801.46,4569.97
+Zona Sul,Studio,Não,Não,Não,17.9,1,1,0,20,9,2.15,596.89,2596.46
+Centro,Apartamento,Não,Não,Sim,94.3,2,1,2,30,17,2.38,431.43,4680.91
+Zona Sul,Studio,Não,Sim,Sim,77.5,4,2,1,35,17,0.97,441.71,6496.48
+,Apartamento,Não,Sim,Não,50.7,1,1,1,37,24,4.21,258.49,2566.54
+Centro,Apartamento,Sim,Sim,Sim,117.5,4,2,0,26,6,1.9,1150.8,7887.56
+Zona Norte,Apartamento,Sim,Não,Não,72.2,4,1,0,35,15,1.7,827.63,4158.52
+Zona Norte,Apartamento,Não,Sim,Sim,44.1,2,2,0,22,5,3.12,700.93,2959.91
+Zona Sul,Apartamento,Não,Não,Não,91.4,1,2,0,20,15,2.03,224.17,6414.27
+Zona Leste,Apartamento,Não,Sim,Sim,80.0,2,2,1,12,15,5.85,437.09,3976.47
+Centro,Apartamento,Sim,Não,Não,79.9,2,2,1,36,22,1.69,306.17,5073.33
+Centro,Apartamento,Sim,Não,Sim,59.4,2,1,1,25,23,2.53,581.89,4419.44
+Zona Leste,Apartamento,Sim,Sim,Sim,81.3,2,2,2,39,0,0.88,318.17,4685.9
+Zona Norte,Cobertura,Não,Não,Não,63.5,4,2,1,6,23,3.31,382.43,7695.26
+Zona Leste,Studio,Sim,Sim,Sim,83.9,1,1,1,38,18,2.46,324.71,2996.19
+Zona Norte,Studio,Não,Sim,Não,22.4,3,1,1,21,2,1.49,490.06,3399.18
+Zona Sul,Studio,,Sim,Não,59.2,1,1,1,38,5,0.69,567.86,5179.81
+Zona Oeste,,Não,Não,Sim,113.1,2,2,1,22,3,0.04,496.68,7192.27
+Zona Leste,Apartamento,Sim,Sim,Sim,50.8,3,1,2,29,3,2.63,933.23,3670.7
+Zona Leste,Studio,Não,Sim,Não,54.9,2,2,0,17,3,0.08,752.78,3138.03
+Zona Sul,Apartamento,Não,Sim,Não,,1,1,0,41,9,3.96,354.24,4157.74
+Zona Norte,Apartamento,Sim,Sim,Não,39.6,3,2,1,17,8,0.11,631.4,3519.99
+Zona Sul,Apartamento,Não,Sim,Não,-14.8,3,1,0,9,7,1.73,374.83,3871.69
+Centro,Apartamento,Não,Sim,Não,64.2,3,1,2,38,18,0.68,451.22,4579.94
+Zona Oeste,Apartamento,Não,Não,Sim,73.4,2,2,2,29,16,2.05,669.8,4879.32
+Centro,Studio,Não,Sim,Não,68.7,2,2,0,25,16,2.04,716.41,4167.55
+Zona Oeste,Apartamento,Sim,Sim,Não,66.4,4,1,0,6,0,2.67,403.14,6127.06
+Zona Norte,Apartamento,Não,Sim,Sim,71.1,3,1,1,6,19,0.29,273.78,4926.03
+Zona Sul,Cobertura,Sim,Sim,Sim,95.6,2,1,1,4,13,0.85,571.93,13808.82
+Zona Norte,Apartamento,,Não,Sim,65.2,3,2,1,0,21,3.46,658.66,4482.24
+Zona Oeste,Apartamento,Não,Não,Sim,55.6,2,2,1,17,19,2.99,,4078.3
+Zona Leste,Apartamento,Sim,Sim,Não,63.0,2,2,1,12,10,1.75,754.14,3525.18
+Zona Oeste,Apartamento,Não,Não,Sim,84.5,1,2,1,24,2,2.57,709.82,5362.41
+Zona Leste,Studio,,Não,Sim,105.3,2,2,0,39,23,0.45,386.78,3909.45
+Zona Leste,Apartamento,Não,Não,Sim,54.3,2,1,2,7,7,1.11,832.54,3590.2
+Zona Oeste,Studio,Não,Sim,Não,72.5,1,3,0,9,21,1.66,840.18,4437.21
+Zona Sul,Apartamento,Sim,Não,Não,78.5,2,2,2,31,24,4.34,1066.92,6946.29
+Zona Norte,Studio,Sim,Sim,Sim,45.2,3,1,1,16,9,0.44,,4155.58
+Zona Sul,Studio,Não,Sim,Sim,70.5,3,1,1,37,16,0.11,324.35,6359.71
+Zona Oeste,Studio,Sim,Sim,Não,33.4,2,1,2,14,7,2.68,781.25,4494.03
+Zona Oeste,Apartamento,Sim,Sim,Não,,3,1,2,14,21,1.96,769.91,5313.01
+Centro,Cobertura,Não,Sim,Sim,79.2,1,2,1,39,0,3.81,462.88,7753.67
+Zona Leste,Apartamento,Não,Sim,Sim,60.4,2,2,0,19,19,1.47,663.73,3517.9
+Zona Oeste,Apartamento,Não,Sim,Sim,75.1,3,2,2,14,20,3.82,80.59,6029.96
+Zona Sul,Studio,Sim,Não,Sim,69.6,2,2,1,34,6,2.02,73.65,5897.21
+Zona Norte,Apartamento,Não,Não,Não,45.6,2,2,0,5,23,2.79,121.34,2954.42
+Zona Oeste,,Sim,Sim,Não,68.9,1,2,2,29,8,4.44,647.31,
+Centro,Apartamento,Sim,Não,Não,39.2,3,1,0,7,11,1.75,659.13,4551.53
+Zona Leste,Apartamento,Não,Não,Não,104.8,2,1,0,30,21,3.57,481.53,3386.49
+Zona Sul,Apartamento,Não,Não,Sim,36.1,3,2,0,31,8,1.08,980.29,4728.37
+Zona Oeste,Apartamento,Não,Sim,Não,65.1,2,1,1,44,19,2.34,796.77,4699.36
+Zona Oeste,Apartamento,Sim,Sim,Não,43.9,3,1,1,14,23,0.17,150.42,4844.13
+Zona Oeste,Apartamento,Não,Não,Sim,84.3,3,2,1,17,2,1.24,507.01,6248.26
+Zona Norte,Apartamento,Não,Sim,Sim,61.7,3,2,1,12,3,0.41,315.08,4250.74
+Zona Oeste,Apartamento,Não,Sim,Não,57.0,2,1,1,23,9,3.83,,4929.74
+Zona Oeste,,Não,Sim,Sim,9130.0,2,2,1,39,3,4.61,542.36,5664.58
+Zona Sul,Apartamento,Não,Sim,Sim,70.7,3,2,0,13,21,1.47,329.26,7252.48
+Zona Oeste,Apartamento,Não,Sim,Não,82.9,2,1,2,27,8,0.84,973.62,5930.97
+Centro,Apartamento,Não,Sim,Não,,2,1,0,10,21,0.03,564.35,4637.29
+Zona Norte,Apartamento,Não,Sim,Não,34.9,1,3,3,5,0,2.4,445.99,3717.7
+Zona Sul,Studio,Não,Não,Não,72.7,3,1,0,24,4,1.1,486.72,5814.51
+Centro,Studio,Não,Não,Sim,62.0,1,1,2,0,8,1.18,954.67,3210.9
+Centro,Apartamento,Não,Sim,Não,85.7,2,2,0,24,4,4.44,777.82,5255.58
+Zona Leste,Apartamento,Não,Não,Não,68.0,2,2,0,1,5,1.56,509.41,4187.35
+Zona Sul,Studio,Sim,Sim,Não,75.1,2,1,2,31,18,2.88,301.98,5976.72
+Zona Leste,Apartamento,,Sim,Sim,29.4,3,1,2,12,7,,340.95,3061.6
+Centro,Apartamento,Não,Não,Não,117.2,1,1,1,32,9,0.03,429.46,5190.36
+Zona Sul,Apartamento,,Não,Não,65.9,2,3,1,31,10,0.77,676.79,5803.03
+Zona Norte,Studio,Sim,Não,Sim,87.4,3,1,1,23,12,2.73,739.13,3962.34
+Zona Leste,Apartamento,Não,Sim,Sim,49.1,3,2,2,26,19,4.56,368.61,3961.1
+,Apartamento,Sim,Não,Sim,77.7,1,3,1,3,3,2.47,750.19,7524.47
+Zona Leste,Cobertura,Não,Sim,Sim,37.4,3,1,1,23,10,2.94,322.85,4718.17
+Zona Oeste,Studio,Não,Não,Não,81.3,3,3,1,22,11,0.64,397.06,5473.92
+Zona Leste,Apartamento,Não,Não,Sim,61.1,3,3,1,28,4,,187.62,4203.94
+Zona Sul,Apartamento,Não,Sim,Sim,70.7,2,2,2,33,9,3.5,180.17,5622.94
+Centro,Studio,Não,Sim,Não,87.4,2,1,0,20,24,0.96,320.14,
+Zona Oeste,Apartamento,Não,Não,Sim,39.2,3,2,0,29,23,2.82,543.57,3821.2
+,Apartamento,Sim,Sim,Não,52.9,3,2,1,25,6,0.65,301.5,4582.83
+Zona Oeste,Apartamento,Não,Sim,Sim,81.4,2,3,1,19,20,3.09,924.52,5914.13
+Zona Norte,,Não,Não,Não,122.5,2,1,0,15,8,,316.88,4003.4
+Zona Oeste,Apartamento,Não,Sim,Não,66.5,2,2,1,2,8,0.16,595.99,5538.6
+Zona Leste,Studio,Não,Não,Não,84.8,2,1,2,36,9,2.6,880.06,3805.05
+Zona Oeste,Studio,Não,Sim,Sim,67.3,2,1,0,39,9,0.66,573.13,3853.1
+Zona Sul,Apartamento,Sim,Sim,Não,118.6,2,1,1,43,1,2.51,459.02,8016.39
+,Apartamento,,Não,Sim,26.3,3,2,1,24,3,0.3,586.75,2516.18
+Zona Norte,Apartamento,Não,Sim,Sim,72.4,1,2,1,22,7,0.02,409.57,3781.0
+Zona Norte,Apartamento,Não,Sim,Sim,29.4,3,2,2,43,13,2.09,299.8,2695.49
+Zona Leste,Apartamento,Não,Não,Não,7.3,1,3,1,0,16,1.74,703.18,2162.41
+Zona Oeste,Studio,Sim,Sim,Não,77.4,2,1,1,32,12,4.19,404.22,-2000.0
+Zona Oeste,,,Sim,Não,73.5,1,2,1,14,20,0.07,784.19,6646.59
+Zona Leste,Studio,Não,Sim,Sim,,2,1,1,16,23,4.06,749.07,2729.95
+Zona Norte,Apartamento,Não,Não,Sim,67.3,3,1,1,33,17,0.29,591.58,4430.73
+Zona Norte,Apartamento,Sim,Não,Não,147.5,3,2,2,16,17,3.38,792.72,6186.33
+,Apartamento,Não,Não,Sim,63.5,2,3,1,40,12,3.66,413.99,2953.42
+Zona Sul,Apartamento,Não,Sim,Não,82.8,2,2,1,43,7,2.48,745.94,7333.46
+Centro,Apartamento,Não,Não,Sim,53.8,2,2,0,3,11,0.81,744.64,5444.43
+Zona Sul,Apartamento,Não,Sim,Não,77.4,3,1,0,12,24,0.28,474.64,7824.36
+,Apartamento,Sim,Sim,Não,64.0,3,1,0,3,22,0.93,442.57,6963.76
+Zona Sul,Apartamento,Sim,Sim,Sim,59.7,2,2,2,6,23,4.78,632.26,6732.61
+Zona Sul,Apartamento,Não,Não,Sim,115.5,3,1,1,8,20,1.55,1042.06,9158.04
+Centro,Apartamento,Não,Não,Não,99.4,3,1,1,22,0,,491.94,5872.12
+Centro,Apartamento,Não,Sim,Não,73.4,1,2,1,32,19,0.29,437.31,4153.13
+Zona Oeste,Cobertura,Não,Sim,Sim,12.4,2,1,2,32,17,2.25,844.6,5873.05
+Zona Norte,Apartamento,Não,Não,Sim,61.0,3,1,1,19,2,1.41,567.03,3433.82
+Zona Sul,Apartamento,Não,Sim,Não,137.6,3,2,2,3,11,0.88,,10381.14
+Zona Leste,Apartamento,Não,Não,Não,64.2,2,2,1,0,18,3.3,,3373.11
+Zona Sul,Apartamento,Não,Sim,Sim,97.6,2,3,2,41,24,2.5,73.24,
+Zona Oeste,Apartamento,Não,Sim,Não,106.0,2,2,1,33,12,4.76,540.61,6442.36
+Zona Leste,Apartamento,Sim,Sim,Sim,75.5,2,1,1,26,9,3.71,492.55,3772.64
+Centro,Apartamento,Não,Sim,Não,49.0,3,3,1,20,120,2.65,309.42,4549.95
+Zona Norte,Apartamento,Sim,Não,Sim,9.1,2,2,1,23,19,,70.34,2442.6
+Zona Oeste,Apartamento,Não,Sim,Não,87.1,3,1,0,14,1,3.81,152.13,5591.29
+Zona Oeste,Apartamento,Não,Não,Não,49.6,3,1,1,34,18,0.9,576.09,4712.92
+Zona Norte,Apartamento,Não,Sim,Não,74.4,1,2,1,24,2,1.35,416.49,3771.85
+Zona Leste,Cobertura,Não,Sim,Não,,2,2,0,8,13,2.62,349.54,5049.41
+Zona Sul,Apartamento,,Sim,Não,63.4,2,2,2,16,6,0.48,573.61,6873.76
+Zona Oeste,Apartamento,Sim,Sim,Não,70.8,3,2,1,20,7,1.64,376.96,6366.41
+Zona Sul,Apartamento,Não,Não,Não,76.7,2,2,2,12,10,3.5,872.55,
+Zona Oeste,Apartamento,Sim,Sim,Não,42.1,2,3,1,2,21,2.78,394.78,
+Zona Leste,Apartamento,Não,Sim,Não,99.9,3,2,1,3,19,1.0,926.33,4837.47
+,Apartamento,Não,Sim,Não,55.1,2,1,1,3,5,3.53,542.5,3800.78
+Zona Norte,Apartamento,Não,Sim,Sim,,3,2,1,42,10,2.45,387.03,3158.75
+Zona Sul,Apartamento,Não,Sim,Não,67.3,4,1,3,27,16,2.4,368.86,7620.97
+Zona Sul,Apartamento,Sim,Não,Sim,70.9,1,2,1,6,9,1.23,928.45,7068.23
+Zona Sul,Apartamento,Não,Sim,Não,74.0,2,3,2,25,23,1.99,723.96,6813.78
+Zona Sul,Apartamento,Não,Sim,Sim,-104.1,4,2,2,10,16,0.84,360.15,9783.61
+Zona Leste,Apartamento,Sim,Sim,Não,64.1,4,2,1,23,20,0.91,579.77,5308.4
+Zona Sul,Apartamento,Não,Não,Não,67.0,1,2,2,42,1,1.58,39.67,4986.62
+Centro,Studio,Sim,Sim,Não,42.4,1,1,1,9,5,,217.1,2709.2
+Zona Oeste,Apartamento,Não,Sim,Não,90.5,1,1,3,36,24,2.21,362.43,5663.32
+Zona Oeste,Apartamento,Não,Sim,Sim,74.6,4,2,1,12,4,3.82,356.3,6206.5
+Zona Oeste,Apartamento,Sim,Sim,Sim,59.5,1,2,0,43,3,1.02,,4196.83
+Zona Oeste,Cobertura,Não,Sim,Sim,22.4,2,2,2,41,1,1.45,71.45,6441.53
+,Apartamento,,Sim,Não,106.1,3,1,1,38,11,3.15,193.05,7640.9
+Zona Sul,Apartamento,Não,Não,Sim,39.3,1,2,1,18,2,0.87,663.1,4103.35
+Zona Leste,Apartamento,Não,Sim,Não,55.2,2,2,1,18,5,2.23,607.57,4168.04
+Zona Leste,Apartamento,Não,Não,Sim,79.0,2,2,0,11,23,1.39,462.56,-2000.0
+Zona Sul,,Sim,Sim,Sim,40.1,3,2,1,21,13,1.63,1063.12,5805.12
+Zona Oeste,Apartamento,Sim,Sim,Sim,32.7,2,2,2,36,7,3.14,704.35,4778.97
+Zona Sul,,Sim,Sim,Não,16.9,3,2,0,29,20,,855.71,4955.81
+Zona Sul,Apartamento,Não,Sim,Não,88.0,3,1,1,11,20,3.19,537.3,7919.33
+Zona Norte,Apartamento,Não,Não,Sim,56.4,2,2,0,28,13,,414.1,2895.6
+,Cobertura,Não,Sim,Não,143.2,1,1,1,20,2,0.14,416.97,10019.79
+Zona Norte,Apartamento,Não,Sim,Sim,,2,3,1,10,15,1.48,781.92,3688.19
+Centro,Apartamento,Sim,Sim,Não,47.0,2,1,2,36,14,0.25,743.19,4399.06
+Zona Oeste,Apartamento,Não,Não,Não,55.9,3,1,2,17,6,4.79,495.35,4242.3
+Zona Sul,Apartamento,Sim,Sim,Sim,76.1,3,2,1,43,14,1.97,667.9,6612.53
+Centro,Apartamento,Sim,Não,Não,,2,1,1,26,12,0.92,790.65,4741.86
+Zona Oeste,Studio,Sim,Sim,Sim,85.3,2,2,2,36,5,3.17,409.02,5479.68
+Zona Oeste,Apartamento,Não,Sim,Não,45.5,2,2,2,11,14,3.39,464.15,3571.65
+Zona Oeste,Apartamento,Sim,Sim,Sim,35.5,3,2,1,22,16,0.17,661.66,5463.35
+Zona Oeste,Apartamento,Sim,Sim,Não,25.0,2,3,1,33,3,5.75,102.83,4015.18
+Zona Leste,Studio,Sim,Sim,Sim,14.4,2,1,2,37,21,2.41,666.4,1937.44
+Zona Norte,Cobertura,Sim,Sim,Não,57.0,2,2,1,22,21,2.6,268.74,6211.78
+Centro,Studio,Não,Não,Não,62.5,2,1,1,24,13,2.75,785.41,3737.85
+Zona Norte,Apartamento,,Não,Não,54.2,2,1,1,3,14,2.74,1086.95,2330.61
+Zona Sul,,Não,Não,Não,101.1,2,2,0,29,11,1.07,375.71,6917.5
+Zona Sul,Apartamento,Não,Sim,Não,100.7,1,1,1,29,18,5.17,212.59,6070.45
+Zona Leste,,Sim,Sim,Sim,61.6,3,2,1,12,21,1.57,505.02,4186.95
+Zona Norte,Apartamento,Não,Sim,Sim,25.2,2,2,0,41,9,3.44,483.69,1730.69
+Centro,Apartamento,Sim,Não,Sim,55.8,1,2,0,13,5,1.29,715.18,3696.21
+Zona Sul,Apartamento,Sim,Não,Não,55.0,2,3,0,7,24,1.02,,5875.37
+Zona Leste,Apartamento,Sim,Sim,Sim,53.6,2,1,1,23,8,4.85,475.92,2998.75
+Centro,Apartamento,Sim,Sim,Não,,2,2,2,17,1,1.84,572.65,5407.19
+Zona Oeste,Apartamento,Sim,Sim,Não,53.7,2,2,3,34,3,1.95,269.46,6362.11
+Zona Norte,Apartamento,Não,Sim,Sim,,2,2,1,24,8,,757.3,3711.15
+Zona Norte,Apartamento,Não,Sim,Sim,,2,1,1,16,14,5.9,954.49,3401.14
+Zona Norte,Apartamento,Sim,Sim,Sim,75.2,2,2,2,31,12,5.25,250.6,3719.88
+Zona Oeste,Studio,Sim,Não,Sim,79.0,1,1,0,23,19,3.93,155.19,3157.66
+Zona Sul,Apartamento,Não,Sim,Sim,47.2,3,1,1,6,7,6.28,449.48,5815.13
+Zona Leste,Apartamento,Sim,Sim,Sim,,2,2,2,12,18,0.58,244.63,5006.48
+Zona Norte,Apartamento,Sim,Não,Não,45.5,2,2,0,26,18,2.98,230.95,3323.77
+Zona Sul,Cobertura,Não,Sim,Não,29.6,1,3,2,4,24,2.11,199.5,8765.39
+Zona Oeste,Apartamento,Sim,Sim,Sim,79.5,2,2,2,35,15,0.65,501.6,6805.51
+Zona Leste,Apartamento,Sim,Sim,Sim,49.6,2,2,0,25,10,2.69,447.14,3780.9
+Zona Leste,Apartamento,Não,Sim,Sim,78.0,2,1,0,41,9,1.26,643.31,3610.79
+Zona Oeste,Apartamento,Sim,Sim,Não,9.9,3,1,0,44,7,4.3,409.25,3064.99
+Zona Oeste,Apartamento,Não,Não,Não,104.8,1,1,1,30,0,1.41,245.84,5914.33
+Zona Leste,Apartamento,Não,Sim,Sim,86.8,2,3,1,9,9,1.32,545.78,4358.87
+Zona Oeste,Studio,Sim,Sim,Sim,32.5,3,1,1,25,17,4.3,285.36,4419.28
+Zona Leste,Apartamento,Não,Sim,Não,33.0,4,1,1,21,2,1.9,678.04,3038.64
+Zona Leste,Studio,Não,Sim,Não,111.8,1,2,2,11,10,3.74,133.44,3971.05
+Zona Leste,Apartamento,Sim,Não,Sim,51.6,2,1,1,31,17,2.64,8.78,3159.82
+Zona Leste,Apartamento,Não,Não,Não,49.1,2,1,0,26,2,2.66,147.56,1689.98
+Zona Sul,Studio,,Sim,Sim,13.3,1,2,1,32,7,1.63,445.42,4051.04
+Zona Oeste,Apartamento,Não,Não,Sim,61.2,2,1,1,19,13,2.75,478.22,
+Zona Oeste,Apartamento,Sim,Sim,Não,64.3,1,1,1,38,5,1.8,584.24,6068.01
+Centro,Apartamento,Não,Não,Não,,3,1,1,40,14,0.79,,5873.51
+Zona Oeste,Apartamento,Sim,Sim,Sim,35.0,2,2,0,39,13,1.84,338.37,4060.82
+Centro,Apartamento,Não,Não,Não,,1,2,2,12,6,3.93,,3844.11
+Zona Sul,Apartamento,Sim,Não,Sim,81.3,1,1,3,13,9,2.8,842.22,7273.87
+Zona Leste,Apartamento,Não,Sim,Não,95.2,3,2,1,43,14,3.15,796.55,4461.85
+,Apartamento,Não,Sim,Não,30.7,1,1,1,39,9,2.0,627.22,3014.99
+Zona Oeste,Apartamento,Não,Não,Não,97.0,2,3,1,21,21,0.91,647.13,5991.28
+Zona Oeste,Apartamento,Não,Não,Não,70.9,2,1,1,17,16,0.17,348.7,5129.97
+Zona Norte,Apartamento,Não,Sim,Sim,97.3,2,2,1,28,18,1.57,586.09,4426.72
+Centro,Apartamento,Não,Não,Não,68.2,2,2,2,42,16,0.3,315.03,4581.95
+Zona Sul,Apartamento,Não,Sim,Não,6.9,1,2,1,15,11,1.21,286.68,3939.81
+Zona Leste,Apartamento,Sim,Sim,Não,,2,1,1,34,14,1.16,145.63,4081.08
+Zona Oeste,Studio,Não,Sim,Sim,96.5,1,1,1,33,11,1.2,651.52,4807.17
+Zona Leste,Apartamento,Não,Sim,Não,47.7,2,2,3,2,24,4.16,590.92,3854.08
+Zona Sul,Apartamento,Não,Não,Não,60.3,3,1,2,3,8,1.92,474.28,6148.15
+Zona Leste,Apartamento,Não,Sim,Sim,65.6,2,2,0,4,4,3.4,441.55,3007.01
+Zona Norte,Apartamento,Não,Não,Não,,1,2,1,9,3,,92.47,1595.49
+Zona Leste,Apartamento,Sim,Sim,Sim,111.8,2,2,1,28,11,4.12,614.1,4574.97
+Centro,Studio,Não,Sim,Sim,47.5,2,1,1,31,15,3.53,471.11,2880.93
+Zona Leste,Apartamento,Não,Sim,Não,82.6,4,2,1,30,8,1.11,774.0,5114.97
+Zona Norte,Studio,Não,Sim,Não,67.8,2,2,2,1,24,4.94,586.55,3827.9
+Zona Oeste,Studio,Não,Sim,Não,101.4,2,2,1,11,2,1.32,726.45,
+Zona Sul,Studio,Não,Sim,Sim,80.2,2,1,3,26,20,2.3,548.19,5623.69
+Zona Leste,Studio,Não,Sim,Não,,3,1,1,4,2,2.57,595.42,3176.1
+Zona Oeste,Apartamento,Não,Sim,Sim,47.7,3,1,2,36,17,2.73,782.78,5571.6
+Centro,Apartamento,Não,Sim,Sim,89.9,2,1,2,26,16,3.19,501.9,5485.0
+Zona Oeste,,Sim,Sim,Sim,23.2,2,2,1,22,9,0.86,667.96,5025.67
+Zona Leste,Apartamento,Não,Não,Não,86.1,2,3,1,32,1,3.07,439.12,3844.26
+Centro,Apartamento,Não,Não,Não,42.5,2,1,0,3,23,2.87,517.22,3158.15
+Zona Sul,Apartamento,Sim,Sim,Não,101.3,3,2,2,20,10,2.0,948.38,9640.71
+Zona Leste,Apartamento,Sim,Sim,Não,74.0,2,1,1,23,23,1.72,710.13,4675.72
+Centro,Apartamento,Não,Sim,Sim,86.1,1,1,1,43,2,0.79,414.64,4286.85
+Zona Norte,Apartamento,Sim,Não,Não,72.0,3,1,1,30,22,2.72,655.73,3837.94
+Zona Sul,Apartamento,Não,Sim,Não,26.2,3,1,1,43,22,1.01,230.0,3813.95
+Zona Leste,Apartamento,Não,Sim,Não,48.5,2,3,0,23,1,2.36,494.7,2887.75
+Centro,Studio,Não,Sim,Sim,86.8,3,1,0,9,8,1.85,311.64,
+Zona Oeste,Apartamento,Não,Sim,Não,74.2,2,2,1,1,18,0.0,662.98,6004.99
+Zona Oeste,Apartamento,Sim,Sim,Não,99.5,3,2,1,30,1,0.6,502.77,7776.58
+Zona Oeste,Apartamento,Não,Não,Não,8009.999999999999,3,3,2,24,18,2.61,620.87,7084.18
+Zona Leste,Apartamento,Não,Sim,Não,45.8,2,1,2,3,1,1.21,743.54,3476.47
+Centro,Apartamento,Não,Sim,Sim,50.1,3,1,1,10,14,1.16,434.95,4525.07
